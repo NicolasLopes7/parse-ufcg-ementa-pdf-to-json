@@ -1,0 +1,9 @@
+{
+  "name": "parse-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pdf2json": "^2.0.0"
+  }
+}

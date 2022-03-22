@@ -1,0 +1,690 @@
+[
+  {
+    "name": "Álgebra Linear",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Fundamentos de Matemáticapara Ciência da Computação II",
+    "owner": "Matemática",
+    "ementa": "Sistemas de equações lineares. Espaços Vetoriais. TransformaçõesLineares. Autovalores e Auto-vetores. Diagonalização de OperadoresLineares. Aplicações.",
+    "bibliography": "1. Anton, Howard E Rorres, Chris. 2001.Álgebra Linear ComAplicações. 8o.Ed. Porto Alegre: Bookman.2. Boldrini, J. L. Et Al., 1986.Álgebra Linear.3o. Ed. São Paulo:Harbra.3. Steinbruch, A. E Winterle, P., 1987.Álgebra Linear. São Paulo:Pearson Makron Books.1. Hoffman, K. E Kunze, R.., 1979.Álgebra Linear. Rio De Janeiro:Livros Técnicos e Científicos.2. Leon, Steven J., 1999.Álgebra Linear Com Aplicações. Rio DeJaneiro: Livro Técnico E Científico.3. Lima, Elon L., 2004.Álgebra Linear. 7 Ed. Coleção MatemáticaUniversitária, Rio De Janeiro: Sbm – Sociedade Brasileira De Matemática.40Ciência da Computação – UASC/UFCG – Projeto Pedagógico4. Lipschutz, Seymour. 1994.Álgebra Linear. São Paulo: Makron BooksDo Brasil.5. Poole, David., 2004.Álgebra Linear. Ed. Thomson Pioneira."
+  },
+  {
+    "name": "Análise de Sistemas",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I eLaboratório deProgramação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Diferenciação entre Modelos de processo, de negócio, de dados e deobjetos. Modelagem de processos de negócio. Construção e análise deum caso de negócio. Métodos de análise e projeto. Técnicas delevantamento de requisitos. Modelagem de requisitos de sistema comcasos de uso. Rastreabilidade de requisitos. Análise e modelagemorientados a objeto. Da análise para o projeto de um sistema.Linguagens para representação de modelos. Ferramentas para Análise eProjeto de um sistema.",
+    "bibliography": "1. Hoffer, J. A., George J., Valacich J., 2013.Modern Systems Analysisand Design,7th Edition, Prentice Hall.2. Arlow J., Neustadt, I., 2005.UML 2 and the Unified Process:Practical Object-Oriented Analysis and Design: Addison-Wesley.3. Ambler S. W., 2005.The Elements of UML 2.0 Style. Cambridge41Ciência da Computação – UASC/UFCG – Projeto PedagógicoUniversity Press.1. Shelly G., Rosenblatt, H.J., 2011.Systems Analysis and Design, 9thedition. Course Technology.2.Dennis A.,Wixom B.H,Roth, R.M., 2008.Systems Analysis andDesign. Wiley.3. Kleppe, A., Warmer, J. and Bast, W., 2003.The Object ConstraintLanguage.2nd Edition. Object-Technology Series. Addison-Wesley."
+  },
+  {
+    "name": "Análise e Técnicas de Algoritmos",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Estrutura de Dados eLaboratório de Estruturade Dados",
+    "owner": "Sistemas e Computação",
+    "ementa": "Análise da complexidade de algoritmos. Algoritmos polinomiaisdeterminísticos e não-determinísticos. Classes de problemas P e NP.Redução entre algoritmos NP-completos. Técnicas de algoritmos. ForçaBruta. Método Guloso. Divisão e Conquista. Backtracking. ProgramaçãoDinâmica. Algoritmos em Grafos. Algoritmos especiais.",
+    "bibliography": "1. Brassard, G., Bratley, 1995. P.Fundamentals Of Algorithmics.Prentice-Hall.2. Cormen, T. H. Et Al. , 1999.Introduction To Algorithms. 2nd Dition,Mcgraw-Hill.3. Garey, M. R., Johnson, D. S., 1979.Computers And Intractability: A42Ciência da Computação – UASC/UFCG – Projeto PedagógicoGuide To The Theory Of Np-Completeness. W. H. Freeman.1. Sedgewick, R. Et Al. , 2011.Algorithms. Addison-WesleyProfessional, 4th Edition.2. Skiena, S.S., 2010.The Algorithm Design Manual. 2nd Edition.Springer.3. Mddowell, G. L., 2011.Cracking The Coding Interview: 150Programming Questions And Solutions. Career Cup, 5th Edition.4. Skiena, S.S. Et Al., 2003.Programming Challenges. 1st Edition.Springer.5. Shen, A., 2009.Algorithms And Programming: Problems AndSolutions. 2nd Edition Springer,."
+  },
+  {
+    "name": "Banco de Dados I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Estrutura de Dados",
+    "owner": "Sistemas e Computação",
+    "ementa": "Banco de dados: conceitos e terminologia. Modelo de entidades erelacionamentos. Modelo relacional. Tradução de esquemas conceituaispara esquemas relacionais. Sistemas de gerência de bancos de dados(SGBDs). Segurança. Integridade. Suporte transacional: controle deconcorrência e recuperação contra falhas.43Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1. Garcia-Molina, H.; Ullman, J. D.; Widom, J. D., 2008.DatabaseSystems: The Complete Book. Prentice Hall, 2nd Edition.2. Elmasri, R.; Navathe, S., 2008.Sistemas De Banco De Dados.Pearson Education, 6ª Edição.3. Silberschatz, A.; Korth, H. F.; Sudarshan, S., 2008.Sistema DeBanco De Dados. Editora Campus.1.Ramakrishnan, R.; Gehrke, J., 2002.Database ManagementSystems. Mcgraw Hill Higher Education, 3rd Edition.2.Date, C. J., 2003.An Introduction to Database Systems. AddisonWesley, 8th Edition.3.Celko, J., 2003.SQL Puzzles And Answers. Morgan Kaufmann, 2ndEdition.4. Patrick And Elizabeth O'Neil, 2001.Database: Principles,Programming, And Performance.Morgan Kaufmann.2nd Edition.5. Thomas M. Connolly, Carolyn E. Begg. , 2001.Database Systems:A Practical Approach To Design, Implementation And Management.Addison Wesley, 4th Edition."
+  },
+  {
+    "name": "Calculo Diferencial e Integral ICARGAHORÁRIA:60 horasCRÉDITOS:04",
+    "hours": "",
+    "preRequisites": "Fundamentos deMatemática para Ciênciada Computação I",
+    "owner": "Matemática44Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "ementa": "Funções de uma variável real. Limites e continuidade. Diferenciação.Aplicações da derivada. Integração. Relação entre derivação eintegração. Funções transcendentes elementares.",
+    "bibliography": "1.Stewart, J., 2006.Cálculo. Volume 1, 5a Edição. Editora Thomson.2.Swokowski, E. W., 1995.Cálculo Com Geometria Analítica, Vol. 1, 2aEdição, Makron Books.3. Thomas, G.B., 2009.Cálculo. Volume 1, 11a Edição, AddisonWesley.1. Ávila, G., 2003.Cálculo 1 – Funções De Uma Variável, Vol. 1, 7aEdição, Ltc – Livros Técnicos E Científicos.2. Ávila, G., 2004.Cálculo 1 – Funções De Uma Variável, Vol. 2, 7aEdição, Ltc - Livros Técnicos E Científicos.3. Boulos, P. E Abud, Z., 2000.Cálculo Diferencial E Integral. Vol. 1,Makron Books.4. Guidorizzi, H.L., 2002.Um Curso De Cálculo, Vol. 1, 5a Edição. Ltc -Livros Técnicos E Científicos.5. Fleming, D.M. E Gonçalves, M.B., 2007.Cálculo A.; 6a Edição.Pearson-Prentice Hall."
+  },
+  {
+    "name": "Calculo Diferencial e Integral IICARGAHORÁRIA:60 horasCRÉDITOS:04",
+    "hours": "",
+    "preRequisites": "Cálculo Diferencial eIntegral I45Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Matemática",
+    "ementa": "Técnicas de Integração. Aplicações da Integral Definida. IntegraisImpróprias. Sucessões e Séries Numéricas. Séries de Potências.Fórmulas e Séries de Taylor-McLaurin.",
+    "bibliography": "1.Stewart, J., 2006.Cálculo. Volume 1 E 2, 5 Ed., Editora Thomson2.Swokowski, E, 1995.Cálculo Com Geometria Analítica. Volume 1e 2, 2Ed . São Paulo: Makron Books Do Brasil3.Thomas, G. B.,  2009.Cálculo. Volume 1 E 2, 11a. Ed. São Paulo:Addison Wesley1.Ávila, G., 2004.Cálculo Das Funções De Uma Variável, Volume 2, 7Ed. Rio De Janeiro: Ltc - Livros Técnicos E Científicos.2.Boulos, P, Abud, Zara I., 2000.Cálculo Diferencial e Integral, Volume1e 2. São Paulo: Makron Books Do Brasil.3.Guidorizzi, H. L., 2002.Um Curso De Cálculo, Volume 2, 5 Ed. Rio DeJaneiro: Ltc - Livros Técnicos E Científicos.4.Fleming, D. M., Gonçalves, M. B., 2007.Cálculo A. 6 Ed., EditoraPearson – Prentice Hall.5.Munem, M. A. E Foulis, D. J.1, 982.Cálculo. Volume 1 E 2, 1 Ed.,Editora Guanabara Dois."
+  },
+  {
+    "name": "Compiladores",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Paradigmas deLinguagem e Programação46Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceituação de tradutores (e.g. compiladores, interpretadores,montadores). Fases de um compilador. Análise léxica. Análise sintática.Análise semântica. Tratamento e recuperação de erros. Geração eOtimização de Código Intermediário. Tabela de símbolos. Geração eOtimização de Código Objeto. Ambientes de run-time. Ambiente deinterpretação. Frameworks, Linguagens e Ferramentas para Construçãode Compiladores. Compiladores JITS. Compiladores Avançados.",
+    "bibliography": "1.Aho, Alfred V.; Sethi, Ravi & Ullman, Jeffrey D., 2006.Compilers,Principles, Techiniques And Tools.Addison-Wesley.2. Duttemann, J., 2009.Assembly Language Step By Step.WileyPublishing, Inc.3. Muchnick, Steve., 1997.Advanced Compiler Design AndImplementation.Morgan Kaufmann.1. Pittman, Thomas And Peters, J., , 1992.The Art Of Compiler Design- Theory And Practice. Prentice-Hall.2. Wirth, N., 1996.Compiler Construction, Addison-Wesley.3. Fraser, C. H., Hanson, D. R., Hansen, D., 1995.A Retargetable CCompiler: Design And Implementation.Addison-Wesley.4.FISCHER, C. N.,LEBLANCJr., R. J., 1988.Crafting A Compiler.TheBenjamin/Cummings Publ. Comp.5.MAK, R., 1996.Writing Compilers And Interpreters.2nd Edition, JohnWiley & Sons.6.TREMBLAY, J. P.,SORENSON, P. G., 1989.The Theory And PracticeOf Compiler Writing.Mcgraw-Hill.47Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Projeto deSoftware",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I eLaboratório deProgramação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Fundamentos; princípios de projeto desoftware(modularidade,coesão, acoplamento); paradigmas de projeto (funcional, orientado aobjetos, outros); projeto orientado a objetos; linguagem de modelagem;abstração, herança, interfaces; bibliotecas eframeworks; padrões dedesign; noções de arquitetura desoftware.",
+    "bibliography": "1.Gamma, E.; Helm, R.; Johnson, R.; Vlissides, J., 1995.DesignPatterns: Elements Of Reusable Object-Oriented Software. AddisonWesley Longman.2. Meyer, B., 1997.Object-Oriented Software Construction, SecondEdition. Prentice Hall.3. Buschmann et al., 2000.Pattern-Oriented Software Architecture.Wiley.1.Fowler, M., 2000.UML Essencial – Um Breve Guia Para A LinguagemPadrão De Modelagem De Objetos; Bookman.2. Larman, C., 2002.Utilizando UML E Padrões; 2ª Edição; Bookman.3. Martin, R., 2012.Código Limpo. Alta Books, Edição 1.4. Beck, K., 2013.Padrões de Implementação. Bookman, Edição 1.48Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Engenharia deSoftware",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I e Laboratóriode Programação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Processo de desenvolvimento desoftware. Gerência de projeto desoftware: estimativas de tempo e custo, análise de riscos, controle dequalidade. Engenharia de Requisitos. Validação e Verificação. EvoluçãodeSoftware. Tópicos avançados.",
+    "bibliography": "1.Sommerville, I., 2011.Engenharia de Software. Pearson, 9a. Edição.2.Pressman, R. 2016.Engenharia De Software. Bookman, 8a. Edição.3. Wazlawick, R. S., 2013.Engenharia de Software. EVMBR, Edição 1.1.Brooks, F., 1995.The Mythical Man-Month: Essays on SoftwareEngineering, Anniversary Edition. Addison-Wesley.2. DeMarco T.,Liste T., 1999.Peopleware: Productive Projects andTeams. Dorset House.3. Brooks, F., 1987.No Silver Bullet Essence and Accidents ofSoftware Engineering.Computer20, 4, April 1987, 10-19.4. Pfleeger S., Atlee, J., 1999.Software Engineering: Theory andPractice. Prentice Hall.5. Pezze M., Young M., 2007.Software Testing and Analysis: Process,Principles and Techniques. Wiley.49Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Estrutura de Dados",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação II, Laboratóriode Programação II",
+    "owner": "Sistemas e Computação",
+    "ementa": "Complexidade de algoritmos. Algoritmos de Ordenação. Tipo Abstratode Dados. Estruturas de dados simples: vetor, fila, pilha, listas. Árvoresbinárias, heap binária, árvores balanceadas, tabelas hash. Estruturas dedados avançadas.",
+    "bibliography": "1.CORMEN, T. H. Et Al. ,1999.Introduction To Algorithms, 2nd Edition,Mcgraw-Hill,2.GOODRICH, M. T.,TAMASSIAR., 2010.Data Structures And AlgorithmsIn Java,5nd Edition, John Wiley & Sons.3.BENTLEY, J. L., 1988.More Programming Pearls, Addison-Wesley.1.DASGUPTA, S,PAPADIMITRIOU, C.H. AndVAZIRANI, U.V., 2008.Algorithms. Macgraw-Hill.2.KNUTH, D., 1997.The Art Of Computer Programming, Vol 1:Fundamental Algorithms, 3rd Edição, Addison-Wesley.3.KNUTH, D.The Art Of Computer Programming, Vol 2: SeminumericalAlgorithms, 3rd Edição, Addison-Wesley, 1997;4.KNUTH, D.The Art Of Computer Programming, Vol 3: Sorting AndSearching, 2nd Edição, Addison-Wesley, 1998;5.SEDGEWICK, R.Algorithms In C, 3rd Edition, Addison-Wesley, 1998;6.WEISS, M. A.Data Structures And Problem Solving Using Java,Addison-Wesley, 1998;50Ciência da Computação – UASC/UFCG – Projeto Pedagógico7.ZIVIANI, N.Projeto De Algoritmos Com Implementação em Pascal E C,4ª Edição, Editora Pioneira, 1999."
+  },
+  {
+    "name": "Fundamentos de Matemática para Ciência da Computação I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Números reais, expoentes e raizes, expressões algébricas, equações;Sistemas de coordenadas, unidades; Escala categórica, escala ordinal,escala intervalar, escala razão; Funções; Domínio e contra-domínio;Função injetora, sobrejetora, bijetora; Função inversa; Composição defunções; Análise gráfica de funções, taxa de mudança, taxa decrescimento; Modelos lineares; Modelos quadráticos; Funções especiais:exponencial, logarítmica, trigonométricas; Modelagem com funçõesespeciais; Sequências e Somatórios; Introdução à Lógica Proposicional ede Predicados; Teoria dos conjuntos; Princípios de Contagem.",
+    "bibliography": "1.Kenneth H. R.Discrete Mathematics And Its Applications. SeventhEdition, Mcgraw-Hill, 1998.2.Gersting, J.L.Fundamentos Matemáticos Para Ciência DaComputação - Matemática Discreta e suas Aplicações. LTC, SextaEdição, 2016.3.Medeiros V. Z., Caldeira, A.M., Da Silva L. M. O., Machado, M.A.S.Pré-Cálculo. Segunda Edição, Cengage Learning, 2013.Graham, R.L., Knuth, D.E., Patashnik, O.,Concrete Mathematics: A51Ciência da Computação – UASC/UFCG – Projeto PedagógicoFoundation For Computer Science,2nd Edition, Addison-WesleyProfessional, 1994.Lipschutz, S., Lipson, M.,Matemática Discreta, Bookman CompanhiaEd, 2004.Bert K. Waits.Pré-Cálculo. Segunda Edição, Pearson, 2013."
+  },
+  {
+    "name": "Fundamentos de Matemática para Ciência da Computação II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Fundamentos deMatemática para Ciênciada Computação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Técnicas de Demonstração Matemática; Indução e Recursividade;Aritmética Modular; Divisibilidade; Inteiros e Números Primos; Aplicaçõesda Teoria dos Números; Noções de Álgebra Vetorial; Grupos; Anéis,Corpos e Polinômios; Detecção e Correção de Erros; Funções Geradoras.",
+    "bibliography": "1.Kenneth H. R.Discrete Mathematics and its Applications.SeventhEdition, Mcgraw-Hill, 1998.2.Gersting, J.L.Fundamentos Matemáticos Para Ciência Da Computação- Matemática Discreta e suas Aplicações. LTC, Sexta Edição, 2016.3.Swokowski, E. W.Cálculo Com Geometria Analítica, Vol. 1, 2a Edição,Makron Books, 1995.52Ciência da Computação – UASC/UFCG – Projeto Pedagógico1.Graham, R.L., Knuth, D.E., Patashnik, O.,Concrete Mathematics: AFoundation For Computer Science,2nd Edition, Addison-WesleyProfessional, 1994.2.Lipschutz, S., Lipson, M.,Matemática Discreta, Bookman CompanhiaEd, 2004.3.Hunter, D.J.,Fundamentos da Matemática Discreta, Ltc, 2011.4.Menezes, P.B.,Matemática Discreta para Computação e Informática,Bookman Companhia Ed, 2008.5.Toscani, L.V, Menezes, P.B., Garcia Lopez, J.,Aprendendo MatemáticaDiscreta Com Exercícios, Bookman Companhia Ed, 2009."
+  },
+  {
+    "name": "Inteligência Artificial",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Teoria da Computação",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução. Agentes Inteligentes e Sistemas Multiagentes.Resolução de Problemas e Estratégias de Busca. Representação doConhecimento e Raciocínio. Tratamento de Incerteza. Aprendizagem.Comunicação. Percepção. Ação. Aplicações e IA Distribuída. Projeto deSistemas Inteligentes.",
+    "bibliography": "1.RUSSELL, S.J., NORVIG, P.Artificial Intelligence: A Modern Approach,3rd Ed.,  2010.2.CARVALHO, A.Inteligência Artificial - Uma Abordagem deAprendizado de Máquina. 1a Ed., 2011.3.JONES, T.Artificial Intelligence: A Systems Approach, 2008.53Ciência da Computação – UASC/UFCG – Projeto Pedagógico1.JONES, T.AiApplication Programming, 2005.2.POOLE, D.A.Artificial Intelligence: Foundations Of ComputationalAgents, 2010.3.LUGER G.F.,Artificial Intelligence: Structures and Strategies forComplex Problem Solving, 6th Edition, 2008.4.NILSSON, N.J.The Quest For Artificial Intelligence, 2009.5.BRATKO, I.Prolog Programming For Artificial Intelligence. 4th Edition,2004."
+  },
+  {
+    "name": "Introdução à Computação",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Visão Geral do Curso de Ciência da Computação. Sistemas deComputação, Aplicações do Computador e Evolução Histórica. AInformação e sua Representação. Sistemas de Numeração. ConceitosBásicos de Circuitos Digitais (Álgebra de Boole, Portas Lógicas eCircuitos Combinacionais). Introdução aoHardwarede um SistemaComputacional (Unidade Central de Processamento, Memória, Sistemasde Entrada e Saída). Introdução aoSoftwarede um SistemaComputacional (SoftwareBásico eSoftwareAplicativo). ConceitosBásicos da Arquitetura de Computadores. Projeto de um SistemaComputacional. Tópicos avançados.",
+    "bibliography": "1.Capron, H., Johnson, J.,Introdução à Informática. Ed. Pearson PrenticeHall. 2004.54Ciência da Computação – UASC/UFCG – Projeto Pedagógico2.Forouzan, B., Mosharraf, F.,Fundamentos da Ciência da Computação-Tradução Da 2ª Edição Internacional. Cengage Learning. 2012.3.Idoeta.I. V., Capuano, F. G.,Elementos de Eletrônica Digital. Érica,35a. Edição,2003.4.Monteiro, M. A.,Introdução à Organização de Computadores. 5a.Edição. Rio De Janeiro: Ltc, 2008.1.Fedeli, R. M., Giulio, E., Polloni, F. Peres, F.,Introdução à Ciência daComputação, Cengage Learning, 2a. Edição, 2009.2.Lancharro, E. A. , Lopez, M. G. E Fernandez, S. P.,Informática Básica.Makron Books. 1991.3.Meyer, M., Baber, R. E Pfaffenberger, B.,Nosso Futuro e oComputador, Bookman. 1999.4.Norton, P.,Introdução à Informática. Makron Books, 2005.5.Stallings, W.,Arquitetura e Organização de Computadores, PrenticeHall, 8a. Edição, 2010.6.Tanenbaum, A. S.,Organização Estruturada de Computadores.Prentice Hall, 5a. Edição, 2006."
+  },
+  {
+    "name": "Introdução à Probabilidade",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Cálculo Diferencial eIntegral I e Fundamentosde Matemática paraCiência da Computação",
+    "owner": "Estatística",
+    "ementa": "Análise Exploratória de Dados. Probabilidade. Probabilidade55Ciência da Computação – UASC/UFCG – Projeto PedagógicoCondicional. Teorema de Bayes. Variáveis Aleatórias Discretas eContínuas. Valor Esperado e Variância. Modelos Probabilísticos paraVariáveis Discretas e Contínuas.",
+    "bibliography": "1.Bussab, W. O., Morettin, P. A.,Estatística Básica. 5 Ed. São Paulo:Saraiva, 2002.2.Dantas, C. A. B.,Probabilidade: Um Curso Introdutório. São Paulo:Edusp, 2004.3.Meyer, P.L.,Probabilidade: Aplicações à Estatística. 2 Ed. Rio DeJaneiro: Ltc – Livros Técnicos E Científicos, 1995.1.Hoel, P. G., Port, S. C. E Stone, C. J.,Introdução à Teoria daProbabilidade. 2ª Ed.,. Rio De Janeiro: Interciência, 1978.2.Larson, H.J. .Introduction Probability Theory and Statistical Inference.Third Edition. New York: John Wiley & Sons, 1982.3.Ross, S. N.,A First Course in Probability. 7ª Ed., New York: PrinticeHall, 2006.4.Ross, S.M..Introduction to Probability and Statistics for Engineers andScientists. New York: John Wiley & Sons, 1987.5.Soares, J.F., Farias, A.A. E César,C.C.,Introdução à Estatística. 2 Ed.Rio De Janeiro: Livrostécnicos E Científicos, 2003."
+  },
+  {
+    "name": "Laboratório de Estrutura de Dados",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação II,Laboratório deProgramação II56Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Sistemas e Computação",
+    "ementa": "Uso de ferramentas de desenvolvimento. Aprofundamento práticodos assuntos vistos na disciplina Estrutura de Dados.",
+    "bibliography": "1.Cormen, T. H. et al.Introduction to Algorithms, 3rd edition, MIT Press,2009.2.Goodrich, M. T., Tamassia R.Data Structures and Algorithms in Java,5nd edition, John Wiley & Sons, 2010.3.Bentley, J. L.More Programming Pearls, Addison-Wesley, 1988.4.Tahchiev, P. et al.JUnit in action, 2nd edition, Manning, 2011.1.Dasgupta, S,Papadimitriou, C.H. andVazirani, U.V. Algorithms.MacGraw-Hill, 2008.2.Knuth, D.The Art of Computer Programming, Vol 1: FundamentalAlgorithms, 3rd edition, Addison-Wesley, 1997.3.Knuth, D.The Art of Computer Programming, Vol 2: SeminumericalAlgorithms, 3rd edição, Addison-Wesley, 1997.4.Knuth, D.The Art of Computer Programming, Vol 3: Sorting andSearching, 2nd edição, Addison-Wesley, 1998.5.Sedgewick, R.Algorithms in C, 3rd edition, Addison-Wesley, 1998.6.Weiss, M. A.Data Structures and Problem Solving Using Java,Addison-Wesley, 1998.7.Ziviani, N.Projeto de Algoritmos com Implementação em Pascal e C,4ª edição, EditoraPioneira, 1999.57Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Laboratório de Organização e Arquitetura de ComputadoresCARGAHORÁRIA:60 horasCRÉDITOS:04",
+    "hours": "",
+    "preRequisites": "Introdução àComputação",
+    "owner": "Sistemas e Computação",
+    "ementa": "Construção de portas lógicas CMOS. Construção de uma UnidadeCentral de Processamento a partir de circuitos de portas lógicasprogramáveis. Implementação de acesso à memória RAM, atendimentoà interrupção, tratamento de paginação. Programação em Assembly.",
+    "bibliography": "1. Harris, D. M. And Harris, S. L.,Digital Design and ComputerArchitecture, 1st Edition, Elsevier, 2007.2. Mano, M. M. And Kime, C. R.,Logic and Computer DesignFundamentals, 4th Edition, Pearson Prentice Hall, 2008;3. Page, D.,A Practical Introduction to Computer Architecture,Springer, 2009.1. Monteiro, M. A.,Introdução à Organização de Computadores. 5a.Edição. Rio De Janeiro: Ltc, 2008.2. Hennessy, J.; Patterson, D.,Arquitetura de Computadores. Rio DeJaneiro: Campus, 2009.3. Null, L., Lobur, J.,Princípios Básicos de Arquitetura e Organizaçãode Computadores, Bookman, 2010.4. Parhami, B.,Arquitetura de Computadores. Porto Alegre: Mcgraw-Hill Artmed, 2008.5. Stallings, W.,Arquitetura e Organização de Computadores, PrenticeHall, 8a. Edição, 2010.58Ciência da Computação – UASC/UFCG – Projeto Pedagógico6. Tanenbaum, A. S.,Organização Estruturada de Computadores.Prentice Hall, 5a. Edição, 2006."
+  },
+  {
+    "name": "Laboratório de Programação I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Uso de ferramentas de desenvolvimento. Aprofundamento práticodos assuntos vistos na disciplina Programação I.",
+    "bibliography": "1.Downey, A. B.Python for Software Design: How to Think Like aComputer Scientist. Cambridge University Press, 2009.2.Griffiths, D.; Barry, Paul.Head First Programming: a Learner's Guideto Programming Using the Python Language. O'reilly Media, 2009.3.Dawson, M.Python Programming for the Absolute Beginner.3. Ed.Course Technology Ptr, 2010.1.Menezes, N. .Introdução a Programação com Python: Algoritmos eLógica de Programação para Iniciantes. Novatec, 2010.2.Borges, L. E.Python para Desenvolvedores. 2. Ed. 2010.3.Luts, M.Learning Python: Powerful Object-Oriented Programming. 4.Ed. O'reilly, 2009.4.Luts, M.Programming Python. 4. Ed. O'reilly, 2010.5.Knuth, D.The Art of Computer Programming: Vol 1, Fundamental59Ciência da Computação – UASC/UFCG – Projeto PedagógicoAlgorithms, 3rd edition, Addison-Wesley, 1997."
+  },
+  {
+    "name": "Laboratório de Programação II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I eLaboratório deProgramação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Uso de ferramentas de desenvolvimento. Aprofundamento práticodos assuntos vistos na disciplina Programação II.",
+    "bibliography": "1.Eckel, B.Thinking In Java.Prentice Hall, 4a Edição, 2006.2.Deitel, H., Deitel, P.Java How to Program.Prentice-Hall, 9a Edição,2012 (Versão Em Português: Java: Como Programar, 8a Edição, 2010).3.Sierra, Kathy; Bates,Bert. Head First Java. O'reilly Media. 2a Edição.2005.1.Bloch, J.Effective Java. Prentice Hall, 2a Edição, 2008.2.Flanagan, D.Java in a Nutshell. O'reilly, 5a Edição, 2005.Versão EmPortuguês: Java: O Guia Essencial (5a Edição, 2006)3.Horstmann, C., Cornell G. Farrer, H. Et. Al.Core Java – Fundamentos-Volume I. Pearson Education, 8a Edição, 2010.4.Bishop, J.Java Gently. Addison-Wesley, 3a Edição, 2001.5.Sierra, Kathy; Bates, Bert.Use A Cabeça! Java, 1a Edição, 2005.60Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Lógica para Computação",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Fundamentos deMatemática para Ciênciada Computação II",
+    "owner": "Sistemas e Computação",
+    "ementa": "Noção de argumento, validade. Lógica proposicional: sintaxe esemântica. Formas normais. Métodos de decisão. Lógica de 1a ordem:linguagem e modelos. Formas normais. Resolução. Métodos eestratégias de resolução.",
+    "bibliography": "1. Michael R. A. Ruth, M.D.R.Logic in ComputerScience,Modellingand Reasoning about Systems. Cambridge UniversityPress.2. Silvestre R.S.Um Curso de Lógica. Editora Vozes.3. Ben-Ari M. Mathematical Logic for Computer Science, Springer.1. BornatR.Proof and Disproof in Formal Logic.Oxford UniversityPress.2. HedmanS. AFirst Course in Logic – An introduction to modeltheory, Proof Theory, Computability, and Complexity.Oxford UniversityPress.3. BramerM.Logic Programming with Prolog. Springer.4. Jackson D.Software Abstractions – Logic, Language and Analysis.The MIT Press.61Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Metodologia Científica",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Ciência, o método científico e a ciência da computação; Comorealizar uma pesquisa empírica; O processo experimental: identificaçãode objetivos, planejamento de experimentos; Análise de dados eestatística; Técnicas e ferramentas de medição de desempenho;Técnicas e ferramentas de medição na engenharia desoftware;Validação de investigações empíricas; Validação de modelos;Planejamento de estudos de caso; Planejamento de surveys; Leitura deum artigo científico; Como escrever um artigo científico; Como prepararuma apresentação e apresentar um trabalho.",
+    "bibliography": "1.Wazlawick, R. 2009.Metodologia de Pesquisa para Ciência daComputação, Editora Campus.2.Wohlin, R., Höst, O., Regnell, W., 2000.Experimentation in SoftwareEngineering, Kluwer Academic Publishers.3.Jain,R. 1991.The Art of Computer Systems Performance Analysis:Techniques for Experimental Design, Measurement, Simulation andModeling, John Wiley.1.Leedy,R. 2009.Practical Research: Planning and Design, 9th edition,Prentice Hall.2.Fenton, R. e Pfleeger, S. 1997.Software Metrics, 2nd edition, PWSPublishing Company.3.Zobel, 2004.Writing for Computer Science, 2nd edition, Springer.Shull, Singer, Sjøberg (Eds), 2008.62Ciência da Computação – UASC/UFCG – Projeto Pedagógico4.Guide to Advanced Empirical Software Engineering, Springer.5.Lilja, 2000.Measuring Computer Performance: a Practitioner's Guide,Cambridge University Press."
+  },
+  {
+    "name": "Estatística Aplicada",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Introdução àProbablidade",
+    "owner": "Estatística",
+    "ementa": "Introdução aoSoftwareR. Geração de amostras aleatórias. Estatísticadescritiva usando o R. Estimação de Parâmetros. Testes de Hipóteses.Comparação entre Grupos. Testes não-paramétricos. Regressão ecorrelação.",
+    "bibliography": "1.Dalgaard, P., 2008.Introductory Statistics With R. Springer;2.Diez, D.M.,BARR, C.D, Çetinkaya-Rundel, M., 2012.OpenintroStatistics, 2nd Edition, Openintro.3.Barbetta, P.A., Reis M.M., Bornia,A.C., 2010.Estatística para os Cursosde Engenharia e Informática, 3a. Ed., São Paulo: Atlas.4.Bussab, W.O., Moretin, P.A., 2002,Estatística Básica. 5a. Edição,Editora Saraiva.1.Moore, D.S., Mccabe G.P., 2010.Introduction to the Practice ofStatistics,7th Edition, W.H. Freeman.2.Kanji, G.K., 2006.100 Statistical Tests. Sage Publications.63Ciência da Computação – UASC/UFCG – Projeto Pedagógico3.Bhattacharyya, G.K. Johnson, R.A., 1977.Statistical Concepts andMethods. John Wiley & Sons.4.Snedecor, G. W., Cochran, W. C., 1967.Statistical Methods, 6thEdition, Iowa State University Press."
+  },
+  {
+    "name": "Organização e Arquitetura de Computadores",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Introdução àComputação",
+    "owner": "Sistemas e Computação",
+    "ementa": "Visão Geral da Arquitetura e Organização de Computadores. ConceitosBásicos de Circuitos Digitais (Circuitos Combinacionais e CircuitosSequenciais). Estrutura Básica de Computadores. A Unidade Central deProcessamento. Estruturas de Barramentos. Organização de Memória.Sistemas de Entrada/Saída. Estrutura Básica da Arquitetura deComputadores. Suporte ao Sistema Operacional. Modos deEndereçamento. Tipos de Dados. Conjunto de Instruções. Interrupção.Paginação. Segmentação. Linguagens e Ferramentas. Sistemas Paralelos.Introdução a Sistemas Dedicados. Projeto de um Sistema Computacional.Tópicos avançados.",
+    "bibliography": "1. Harris, D. M. And Harris, S. L.,Digital Design and ComputerArchitecture, 1st Edition, Elsevier, 2007.2. Mano, M. M. And Kime, C. R.,Logic and Computer DesignFundamentals, 4th Edition, Pearson Prentice Hall, 2008;3. Page, D.,A Practical Introduction to Computer Architecture,Springer, 2009.64Ciência da Computação – UASC/UFCG – Projeto Pedagógico4. Stallings, W.,Arquitetura e Organização de Computadores, PrenticeHall, 8a. Edição, 2010.1. Hennessy, J.; Patterson, D.,Arquitetura de Computadores. Rio DeJaneiro: Campus, 2009.2. Monteiro, M. A.,Introdução à Organização de Computadores. 5a.Edição. Rio De Janeiro: Ltc, 2008.3. Null, L., Lobur, J.,Princípios Básicos de Arquitetura e Organizaçãode Computadores, Bookman, 2010.4. Parhami, B.,Arquitetura de Computadores. Porto Alegre: Mcgraw-Hill Artmed, 2008.5. Tanenbaum, A. S.,Organização Estruturada de Computadores.Prentice Hall, 5a. Edição, 2006."
+  },
+  {
+    "name": "Paradigmas de Linguagens de Programação",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I eLaboratório deProgramação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceitos e construções fundamentais em linguagens deprogramação: sintaxe, semântica, armazenamento, comandos,expressões, estruturas de controle, sistema de tipos, abstração eparametrização, encapsulamento, associações e escopo, reflexão emeta-programação. Paradigmas básicos e suas construções, conceitosfundamentais e estilo de programação: Imperativo, Funcional, Lógico,Orientado a Objetos, Concorrente, Funcional e Scripts. NovosParadigmas, suas construções, conceitos fundamentais e estilo de65Ciência da Computação – UASC/UFCG – Projeto Pedagógicoprogramação.",
+    "bibliography": "1.Watt, D.Programming Language Design Concepts, John Wiley & Sons,2004.2.Van Roy P., Haridi, S.Concepts, Techniques and Models of ComputerProgramming, The MIT Press, 2004.3.Dershem, H., Jippling, M.Programming Languages Structures andModels, Publishing Co., 1990.1.Ghezzi, C., Jazayeri, M.Programming Language Concepts, 3rd edition,John Wiley, 1997.2.Mitchell,J. C. .Concepts in Programming Languages. CambridgeUniversity Press, 2002.3.Turbak, F., Gifford M., Sheldon, M.A.Design Concepts in ProgrammingLanguages. MIT Press, 2008.4.Scott, M.L.Programming Language Pragmatics. Third Edition. MorganKaufman, 2009.5.Sebesta, R. W.Concepts of Programming Languages, Addison Wesley,2009."
+  },
+  {
+    "name": "Programação I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceitos básicos de linguagens de programação. Algoritmos. Noções66Ciência da Computação – UASC/UFCG – Projeto Pedagógicobásicas de programação. Resolução de problemas. Tipos de dados.Entrada e Saída. Decisões. Laços. Funções. Noções de estruturas dedados: listas, conjuntos, vetores, matrizes e mapas. Técnicas básicas deboa programação. Tratamento de erros. Testes.",
+    "bibliography": "1.Downey, A. B.Python for Software Design: How to Think Like aComputer Scientist. Cambridge University Press, 2009.2.Griffiths, D., Barry, P.Head First Programming: a Learner's Guide toProgramming Using the Python Language. O'reilly Media, 2009.3.Dawson, M.,Python Programming for the Absolute Beginner. 3. Ed.Course Technology Ptr, 2010.1.Menezes, N.N.C.Introdução à Programação com Python: Algoritmos eLógica de Programação para Iniciantes. Novatec, 2010.2.Borges, L.E.Python para Desenvolvedores. 2. Ed. 2010.3.Luts, M.Learning Python: Powerful Object-Oriented Programming. 4.Ed. O'reilly, 2009.4.Luts, M.Programming Python. 4. Ed. O'reilly, 2010.5.Knuth, D.The Art of Computer Programming: Vol 1, FundamentalAlgorithms, 3rd Edition, Addison-Wesley, 1997."
+  },
+  {
+    "name": "Programação II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Programação I eLaboratório deProgramação I",
+    "owner": "Sistemas e Computação67Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "ementa": "Modularização de programas. Uso de objetos. Criação de classes.Encapsulamento. Herança e composição. Polimorfismo. Tipos abstratosde dados. Tipos de coleções de objetos. Tratamento de erros comexceções. Testes de unidade. Regras básicas de design e refatoramento.Criação e uso de arquivos. Recursividade.",
+    "bibliography": "1.Eckel, B.Thinking in Java. Prentice Hall, 4a Edição, 2006.Deitel, H., Deitel, P.Java How to Program. Prentice-Hall, 9a Edição,2012.2.Sierra, K., Bates, B.Head First Java. O'reilly Media. 2a Edição. 2005.3.Bloch, J.Effective Java. Prentice Hall, 2a Edição, 2008.1.Flanagan, D.Java in a Nutshell. O'reilly, 5a Edição, 2005.2.Horstmann, C., Cornell G., Farrer, H.Core Java –Fundamentos -Volume I. Pearson Education, 8a Edição, 2010.3.Bishop, J.Java Gently. Addison-Wesley,3a Edição, 2001."
+  },
+  {
+    "name": "Programação Concorrente",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "SistemasOperacionais",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução à programação concorrente. Conceitos básicos. Exclusãomútua. Sincronização usando memória compartilhada. Concorrência emlinguagens de programação. Problemas clássicos de programaçãoconcorrente. Resolução de problemas.68Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1.Maurice H., Shavit,N.The art of multiprocessor programming,primeira edição, Morgan Kaufmann, 2008.2.Goetz,B., Peierls, T. Bloch J., Bowbeer J., Holmes D., Lea, D.Javaconcorrente na prática, primeira edição, Altabooks, 2008.3.Garg, V.K.Concurrent and distributed programming in Java, JohnWiley & Sons, 2004.1.McKenney, P. (Editor),Is Parallel Programming Hard, and, if so,what can You do about it?,http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2011.01.02a.pdf, 2011.2.Garg V.K.Concurrent and distributed programming in Java, JohnWiley & Sons, 2004.3.Oracle,The Java Tutorials: Concurrency,http://docs.oracle.com/javase/tutorial/essential/concurrency/.4.Drepper, U.What Every Programmer Should Know About Memory,ftp://ftp.linux.org.ua/pub/docs/developer/general/cpumemory.pdf,2007.5.Marz N.Big Data. Manning Publications Co., 2012."
+  },
+  {
+    "name": "Projeto em Computação I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Engenharia deSoftware",
+    "owner": "Sistemas e Computação",
+    "ementa": "Desenvolvimento de um projeto prático em computação. Definição69Ciência da Computação – UASC/UFCG – Projeto Pedagógicodo problema. Análise de requisitos. Estudo de viabilidade. Análise dodomíniodo problema. Projeto arquitetural. Projeto de baixo nível.Implementação. Testes. Cronograma de execução.",
+    "bibliography": "1.Cohn, M.Succeeding with Agile: Software Development UsingScrum. Addison-Wesley, 2009;2.Cohn, M.User Stories Applied: For Agile Software Development.Addison-Wesley, 2004;3.Cohn, M.Agile Estimating and Planning. Prentice Hall, 2005;1.Isaacson W.Steve Jobs. Simon & Schuster, 2011.2.Kahney,L.A Cabeça de Steve Jobs (Inside Steve's Brain). Agir,2008;3.Mezrich B.Bilionários por Acaso: A Criação do Facebook.Intrinseca, 2010;4.Vise, D.A., Malseed, M.Google. Rocco, 2007;5.Goldman R., Gabriel R.P.Innovation Happens Elsewhere: OpenSource as Business Strategy. Morgan Kaufmann, 2005;6.Tapscott, D., Williams, A.D.Wikinomics: How Mass CollaborationChanges Everything. Portfolio Trade, 2010."
+  },
+  {
+    "name": "Projeto em Computação II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Projeto emComputação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Continuação do projeto em computação definido na disciplina.70Ciência da Computação – UASC/UFCG – Projeto PedagógicoProjeto em Computação I.",
+    "bibliography": "1.Cohn, M.Succeeding with Agile: Software Development UsingScrum. Addison-Wesley, 2009;2.Cohn, M.User Stories Applied: for Agile Software Development.Addison-Wesley, 2004;3.Cohn, M.Agile Estimating and Planning. Prentice Hall, 2005;1.Isaacson, W.Steve Jobs. Simon & Schuster, 2011.2.Kahney,L.A Cabeça de Steve Jobs (Inside Steve's Brain). Agir,2008;3.Mezrich,B.Bilionários por Acaso: A Criação do Facebook.Intrinseca, 2010;4.Vise, D.A., Mark Malseed.Google. Rocco, 2007;5.Goldman, R., Gabriel, R.P.Innovation Happens Elsewhere: OpenSource as Business Strategy. Morgan Kaufmann, 2005;6.Tapscott, D., Williams, A.D.Wikinomics: How Mass CollaborationChanges Everything. Portfolio Trade, 2010."
+  },
+  {
+    "name": "Projeto de Trabalho de Conclusão de Curso",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Leitura e Escrita de relatórios científicos. Como preparar umaapresentação e apresentar um trabalho; Planejamento e execução de71Ciência da Computação – UASC/UFCG – Projeto Pedagógicoprojeto em ciência da computação.",
+    "bibliography": "Bibliografia específica para o problema a ser abordado.Bibliografia específica para o problema a ser abordado."
+  },
+  {
+    "name": "Trabalho de Conclusão de Curso",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Projeto de Trabalho deConclusão de Curso",
+    "owner": "Sistemas e Computação",
+    "ementa": "Acompanhamento de Projeto. Produção de monografia acerca doprojeto realizado.",
+    "bibliography": "Bibliografia específica para o problema a ser abordado.Bibliografia específica para o problema a ser abordado."
+  },
+  {
+    "name": "Redes de Computadores",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Introdução àComputação",
+    "owner": "Sistemas e Computação72Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "ementa": "Conceitos básicos de redes de computadores. Conceitos detecnologias de transmissão de sinais (analógicos e digitais).Apresentação/descrição, de forma geral, dehardwareesoftwarepararedes de computadores. Modelos de referência OSI e TCP/IP dearquitetura de redes de computadores. Apresentação/descrição defuncionalidades definidas em cada uma das camadas das pilhas deprotocolos do modelo OSI e TCP/IP. Estudo de casos.",
+    "bibliography": "1.Tanenbaun, A.S, Wetherall, D.J.Redes de Computadores, 5a Ed. - Ed.Pearson, 20102.Comer, D. E.Computer Networks and Internets, 5th Ed. - Ed. PrenticeHall, 20083.Kurose, J. F.; Ross, K.W.Computer Networking: a Top-down Approach,6th Ed. - Ed. Addison Wesley, 20121.Comer, D. E.Internetworking with TCP/IP, Vol.1, 5th Ed. - Ed. PrenticeHall, 20052.Peterson, L. L.; Davie, Bruce S.Computer Networks: A SystemsApproach, 5th edition, Morgan-Kaufman, 2011.3.Soares, L.F.G.Das LANs, MANs e WANs às Redes ATM, 2ª Ed. –Editora Campus.4.Haykin, S.,Communications Systems, 4th edition, Prentice Hall,Signal Processing Series, 2000, ISBN 0471178691.5.Stallings, W.Redes e Sistemas de Comunicação de Dados. 1ª Ed.2005 – Editora Campus.73Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Sistemas Operacionais",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Organização eArquitetura deComputadores",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceitos básicos de sistemas operacionais. Gerência deprocessador. “Multithreading”. Comunicação entre processos. Gerênciade memória. Gerência de entrada/saída. Sistemas de arquivos.Virtualização. Tópicos avançados.",
+    "bibliography": "1.Tanenbaum, A. S.Sistemas Operacionais Modernos, 3a edição,Prentice-Hall Brasil, 2010.2.Bach, M.The Design of the UNIX Operating System, Prentice-Hall,1986.3.Silberschatz A., Galvin, P. B., Gagne, G.Operating System Concepts,9th edition, Wiley, 2013.1.Venkateswaran, S.Essential Linux Device Drivers, Prentice Hall, 2008.2.Smith, J., Nair, R.Virtual Machines: Versatile Platforms for Systemsand Processes, Morgan Kaufmann, 2005.3.Veras, M.Virtualização, Brasport, 2011.4.Pate, S. D.UNIX Filesystems: Evolution, Design, and Implementation,Wiley, 2003.5.Hughes, C., Hughes T.Professional Multicore Programming: Designand Implementation for C++ Developers, Wrox, 2008.74Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Teoria da Computação",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Paradigmas deLinguagens deProgramação",
+    "owner": "Sistemas e Computação",
+    "ementa": "Fundamentos matemáticos. Autômatos finitos e linguagens regulares.Linguagens não-regulares (lema do bombeamento). Gramáticas livres decontexto e autômatos de pilha. Árvores de derivação e ambiguidade.Formas normais. Hierarquia de Chomsky. Algoritmos e máquinas deTuring, Tese de Church-Turing. Funções Turing-computáveis.Decidibilidade e indecidibilidade. Redução.",
+    "bibliography": "1.Sipser, M.Introdução à Teoria da Computação, Cengage Learning,2011 (tradução da 2a edição).2.Hopcroft, J. E., Ullman J. D., Motwani, R.Introdução à Teoria deAutômatos, Linguagens e Computação, Editora Campus, 2002(tradução da 2a edição).3.Vieira, J. N.Introdução aos Fundamentos da Computação. PioneiraThomson Learning, 2006.1.Sipser, M.Introduction to the Theory of Computation. CengageLearning, 2006, 2a. edição.2.Cohen, D.Introduction to Computer Theory, John Wiley& Sons, 1996,2a. edição;3.Lewis, H. R., Papadimitriou, C. H.Elementos de Teoria da Computação,Bookman, 2008, 2a edição (2a reimpressão, revisada).4.Simonson, S.Theory of Computation, Ars Digita University,75Ciência da Computação – UASC/UFCG – Projeto Pedagógicohttp://aduni.org/courses/theory/, visitado em 26 de julho de 2012.5.Ulmann, J. D.,Introduction to Automata Theory, Languages, andComputation (cursoonline),http://infolab.stanford.edu/~ullman/ialc.html, visitado em 26de julho de 2012.B. Componentes Curriculares Optativos de Formação Específica"
+  },
+  {
+    "name": "Administração de Sistemas",
+    "hours": "60 horasCRÉDITOS:04 (quatro)",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução à Administração de Sistemas. Programação Shell.Utilitários básicos do sistema operacional. Sistemas de infraestrutura dearquivos e de redes. Sistemas de controle de usuários, monitoramentoe autenticação. Políticas e práticas na administração de sistemas de TI.",
+    "bibliography": "1.WARD, B.Como o Linux Funciona. NOVATEC, 2015.2.NEMETH, E., SNYDER, G., HEIN, T.Unix And Linux SystemAdministration Handbook. Prentice Hall, 2010.3.FRISCH,Æ.Essential System Administration: Tools and Techniquesfor Linux and Unix Administration. O’Reilly, 2012.1. CANNON, J.Shell Scripting. Ebook Kindle. 2015.2. STANFIELD, V., SMITH R.W.Linux System Administration. Sybex.2002.76Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Administração de Sistemas Gerenciadores de Banco de Dados",
+    "hours": "60 horasCRÉDITOS:04 (quatro)",
+    "preRequisites": "Banco de Dados I",
+    "owner": "Sistemas e Computação",
+    "ementa": "O papel do administrador de banco de dados. Arquitetura de SGBD.Gerenciamento de recursos (memória, disco, usuários, transações).Ajuste de controle de concorrência. Ajuste de desempenho de banco dedados. Ajuste de desempenho de consultas SQL. Ajuste de esquemas.Backup e recuperação de falhas. Segurança e auditoria de banco dedados. Ferramentas de administração. Estudos de Caso. Tópicosavançados.",
+    "bibliography": "1.SHASHA, D., Bonnet, P.Database Tuning - Principles, Experimentsand Troubleshooting Techniques. Morgan Kaufmann, 2003.2.BRYLA, B., LONEY, K.Oracle Database 11g DBA Handbook.McGraw-Hill Osborne Media, 1st Edition, 2007.3.MULLINS, C.Database Administration: The Complete Guide to DBAPractices and Procedures. Addison-Wesley Professional, 2nd Edition,2012.1.HELMLE, B.PostgreSQL Administration. O’Reilly Vlg. GmbH & Co.,2008.2.STANEK, W. R.Microsoft SQL Server2012 Pocket Consultant.Microsoft Press, 2012.3.ALAPATI, A.;KUHN, D.;PADFIELD, B.Oracle Database 11gPerformance Tuning Recipes. Apress, 2011.77Ciência da Computação – UASC/UFCG – Projeto Pedagógico4.TOW, D. SQLTuning. O'Reilly Media, 1st Edition, 2003.5.ZEMKE, F.What’s new in SQL:2011?.SIGMOD Record 41(1):67-73,2012."
+  },
+  {
+    "name": "Algoritmos Avançados I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Estudo da concepção e aplicação de estruturas de dados avançadas,e detécnicas de programação através da resolução de exercícios demaratonade programação de sites como: Valladolid, SPOJ, Topcoder. Grafos. Teoriados Números. Geometria Computacional. Programação Dinâmica.Backtracking. Manipulação de Strings.",
+    "bibliography": "1.Cormen, T.,Leiserson, C., Rivest, R., Stein,C.Introduction toAlgorithms.MIT Press, 2009.2. Skiena, S., Revilla,M.Programming Challenges. Springer, 2003.3. Skiena,S.The Algorithm Design Manual. Springer, 2003.1.Sedgewick,R., Wayne,K.Algorithms. Addison Wesley, 2011.2.  Papadimitriou,C.Combinatorial Optimization: Algorithms andComplexity.Dover Publications, 19983. Halim, S., Halim,F.Competitive Programming: Increasing the LowerBound of Programming Contest. Lulu, 2011.4. Manber, U.Introduction to Algorithms: A Creative Approach.78Ciência da Computação – UASC/UFCG – Projeto PedagógicoAddison Wesley, 1989.5. Kleinbergand,J., Tardos, E.Algorithm Design.Addison Wesley, 2005."
+  },
+  {
+    "name": "Algoritmos Avançados II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Continuação do Estudo da concepção e aplicação de estruturas dedados avançadas, e de técnicas de programação através da resolução deexercícios de maratonade programação de sites como: Valladolid, SPOJ,Topcoder. Grafos. Teoria dos Números. Geometria Computacional.Programação Dinâmica. Backtracking. Manipulação de Strings.",
+    "bibliography": "1.Cormen, T.,Leiserson, C., Rivest, R., Stein,C.Introduction toAlgorithms. MIT Press, 2009.2. Skiena, S., Revilla,M.Programming Challenges. Springer, 2003.3. Skiena,S.The Algorithm Design Manual. Springer, 2003.1.Sedgewick,R., Wayne,K.Algorithms. Addison Wesley, 2011.2.  Papadimitriou,C.Combinatorial Optimization: Algorithms andComplexity. Dover Publications, 19983. Halim, S., Halim,F.Competitive Programming: Increasing the LowerBound of Programming Contest. Lulu, 2011.4. Manber, U.Introduction to Algorithms: a Creative Approach.Addison Wesley, 1989.5. Kleinbergand,J., Tardos, E.Algorithm Design.Addison Wesley, 2005.79Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Algoritmos Avançados III",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Continuação do Estudo da concepção e aplicação de estruturas dedados avançadas, e de técnicas de programação através da resoluçãode exercícios de maratona de programação de sites como: Valladolid,SPOJ, Topcoder. Grafos. Teoria dos Números. Geometria Computacional.Programação Dinâmica. Backtracking. Manipulação de Strings.",
+    "bibliography": "1.Cormen, T.,Leiserson, C., Rivest, R., Stein,C.Introduction toAlgorithms.MIT Press, 2009.2. Skiena, S., Revilla,M.Programming Challenges. Springer, 2003.3. Skiena,S.The Algorithm Design Manual.Springer, 2003.1.Sedgewick,R., Wayne,K.Algorithms. Addison Wesley, 2011.2.  Papadimitriou,C.Combinatorial Optimization: Algorithms andComplexity. Dover Publications, 19983. Halim, S., Halim,F.Competitive Programming: Increasing the LowerBound of Programming Contest.Lulu, 2011.4. Manber, U.Introduction to Algorithms: a Creative Approach.Addison Wesley, 1989.5. Kleinbergand,J., Tardos, E.Algorithm Design.Addison Wesley, 2005.80Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Algoritmos Avançados IV",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Continuação do Estudo da concepção e aplicação de estruturas dedados avançadas, e de técnicas de programação através da resoluçãode exercícios de maratona de programação de sites como: Valladolid,SPOJ, Topcoder. Grafos.Teoria dos Números. Geometria Computacional.Programação Dinâmica. Backtracking. Manipulação de Strings.",
+    "bibliography": "1.Cormen, T.,Leiserson, C., Rivest, R., Stein,C.Introduction toAlgorithms. MIT Press, 2009.2. Skiena, S., Revilla,M.Programming Challenges. Springer, 2003.3. Skiena,S.The Algorithm Design Manual. Springer, 2003.1.Sedgewick,R., Wayne,K.Algorithms. Addison Wesley, 2011.2.  Papadimitriou,C.Combinatorial Optimization: Algorithms andComplexity. Dover Publications, 19983. Halim, S., Halim,F.Competitive Programming: Increasing the LowerBound of Programming Contest.Lulu, 2011.4. Manber, U.Introduction to Algorithms: a Creative Approach.Addison Wesley, 1989.5. Kleinbergand,J., Tardos, E.Algorithm Design.Addison Wesley, 2005.81Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Arquitetura deSoftware",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Projeto desoftware",
+    "owner": "Sistemas e Computação",
+    "ementa": "Fundamentos e conceitos de design desoftware. Definição ebenefícios de Arquitetura deSoftware. Conceitos de Arquitetura deSoftware: Elementos arquiteturais; Stakeholders; Atributos de qualidade,requisitos arquiteturais; Visões arquiteturais; Decisões arquiteturais;Rastreabilidade; Técnicas de Design Arquitetural e Padrões arquiteturais.Documentação da arquitetura de um sistemasoftware.",
+    "bibliography": "1. BASS, L., CLEMENTS, P., KAZMAN, R.Software Architecture inPractice(3rd Edition). Addison-Wesley, 2003.2. CLEMENTS, P., BACHMAN, F., BASS, L., GARLAN, D.DocumentingSoftware Architectures: Views and Beyond (2nd Edition). Addison-Wesley, 2010.3. EELES, P., CRIPPS, P.The Process of Software Architecting..Addison-Wesley, 2009.1. TAYLOR, R. N., MEDVIDOVIC, N., DASHOFY, E.M.SoftwareArchitecture: Foundations, Theory, and Practice. Wiley. 2009.2. ROZANSKI N., WOODS, E.Software Systems Architecture: WorkingWith Stakeholders Using Viewpoints and Perspectives (2nd Edition).Addison-Wesley, 2011.3. COPLIEN, J., BJØRNVIG, G.Lean Architecture: for Agile SoftwareDevelopment. Wiley. 2010.4. FOWLER, M.Patterns of Enterprise Application Architecture.Addison-Wesley. 2002.82Ciência da Computação – UASC/UFCG – Projeto Pedagógico5. CHANSLER, R. et al.The Architecture of Open Source Applications:Elegance, Evolution, and a Few Fearless Hacks (Volume I). eBook, 2011.6. BROWN A., WILSON G.The Architecture of Open SourceApplications: Structure, Scale, and a Few More Fearless Hacks (VolumeII). Ebook, 2012."
+  },
+  {
+    "name": "Avaliação de Desempenho de Sistemas Discretos",
+    "hours": "60 horasCRÉDITOS:04 (quatro)",
+    "preRequisites": "Introdução àProbabilidade",
+    "owner": "Sistemas e Computação",
+    "ementa": "O processo de modelagem. Métodos de avaliação de desempenho desistemas discretos. Introdução aos processos estocásticos. Teoria dasfilas. Medidas básicas de desempenho. Simulação digital. Ferramentasde modelagem e avaliação de desempenho.",
+    "bibliography": "1.BANKS, J.; CARSON, J.;NELSON, B. and NICOL, D.Discrete-EventSystem Simulation. Prentice-Hall, 2010.2. JAIN, R.The Art of Computer Systems Performance Analysis. Wiley,1991.3. ALENCAR, M.Probabilidade e Processos Estocásticos. Editora Érica,2009.1. KELTON, W. D.Simulation with Arena. McGraw-Hill, 1998.2. KLEINROCK, L.Queueing Systems: Theory.Vol 1, John Wiley &Sons, 1975.83Ciência da Computação – UASC/UFCG – Projeto Pedagógico3. KLEINROCK, L.; GAIL, R.Queueing Systems: Problems andSolutions. John Wiley & Sons, 1996.4. NELSON, R.Probability Stochastic Processes and Queueing Theory.Springer-Verlag, 1995.5. PAPOULIS, A.Probability, Random Variables and StochasticProcesses.3rd edition, McGrall-Hill, 1991.6. BRITO, A. e TEIXEIRA, J.Simulação por Computador: Fundamentose implementação de código em C e C++. Editora Publindústria, 2001."
+  },
+  {
+    "name": "Banco de Dados II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Banco de Dados I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Modelos de dados orientados a objeto. Modelos de dados objeto-relacionais. SGBDs orientados a objeto. SGBDs objeto-relacionais. Projetode bancos de dados objeto-relacionais. Data Warehousing. TópicosAvançados.",
+    "bibliography": "1. SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S.Sistema de Bancode Dados. Editora Campus, 5ª Edição, 2006.2. ELMASRI, R.; NAVATHE, S.Sistemas de Banco de Dados.PearsonEducation, 6ª Edição, 2011.3. KIMBALL, R.; ROSS, M.; THORNTHWAITE, W.; MUNDY, J.; BECKER, B.The Data Warehouse Lifecycle Toolkit. Wiley, 2nd Edition, 2008.1.DATE, C. J.An Introduction to Database Systems. Addison Wesley,84Ciência da Computação – UASC/UFCG – Projeto Pedagógico8th Edition, 2003.2.GARCIA-MOLINA, H.;ULLMAN, J. D.;WIDOM, J. D.Database Systems:the Complete Book. Prentice Hall, 2nd Edition, 2008.3.CATTELL, R.Scalable SQL and NoSQL Data Stores. SIGMOD Record39(4):12-27, 2010.4. INMON, W. H.Building the Data Warehouse. Wiley, 4th Edition,2005.5.TURBAN, E.;ARONSON, J. E.;LIANG, T.-P.;SHARDA, R.DecisionSupport and Business Intelligence Systems. Prentice Hall, 8th Edition,2006."
+  },
+  {
+    "name": "Computação Gráfica",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Motivação, sistemas, tecnologias e aplicações gráficas, API gráficas,pipeline gráfico, aspectos numéricos, projeto e codificação deprogramas gráficos. Fundamentos de matemática, análise vetorial eálgebra geométrica aplicados à computação gráfica. Percepção visual,luz, cor, iluminação global e visualização 2D e 3D. Renderização -raytracing, sombreamento de superfícies, transparência e mapeamentode textura. Estruturas de dados para o processamento gráfico.Modelagem implícita. Modelos de reflexão. Animação computacional.Hardwaregráfico. Projeto em Computação Gráfica.85Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1. ANGEL, E.; SHREINER, D.Interactive Computer Graphics: a Top-Down Approach with Shader-Based OpenGL. Addison-Wesley, 2012, 6thedition2. SHIRLEY, P.; ASHIKHMIN, M.; MARSCHNER, S.Fundamentals ofComputer Graphics. A K Peters/CRC Press, 2009, 3rded.3. VINCE, J.Geometric Algebra for Computer Graphics. Springer-Verlag London Limited, 2008.1.ANGEL, E.Interactive Computer Graphics: a Top-Down Approachwith OpenGL. Addison-Wesley, 2009, 5th ed.2. KLAWONN, F.Introduction to Computer Graphics Using Java 2Dand 3D. Springer-Verlag London Limited, 2008.3. MUNSHI, A.; GINSBURG, D.; SHREINER, D.The OpenGL ES 2.0programming guide, Addison-Wesley, 2009.4. SHREINER, D.; LICEA-KANE, B.; SELLERS, G.OpenGL ProgrammingGuide (Red Book., Addison Wesley, 2012, 8th ed.5.WHITROW, R.Opengl Graphics Through Applications. Springer-Verlag London Limited, 2008."
+  },
+  {
+    "name": "Computação e Música",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Estrutura de Dados eAlgoritmos",
+    "owner": "Sistemas e Computação",
+    "ementa": "Fundamentos de Computação e Música, Fundamentos de Sistemas deComputação e Música. Design de Sistemas de Computação e Música.86Ciência da Computação – UASC/UFCG – Projeto PedagógicoProdução de Sistemas de Computação e Música. Tendências emComputação e Música.",
+    "bibliography": "1.Keller,D., Budasz,R.Criação musical e tecnologias: teoria e práticainterdisciplinar. ANPPOM, 2010.2.Collins, N.Introduction to Computing Music– Willey Ed.. 2010.3.Novak, J.Desenvolvimento de games – tradução da 2ª edição norte-americana. São Paulo: Cengage Learning, 2011.1.Manzo, V. J.Max/MSP/Jitter for Music: a Practical Guide to DevelopingInteractive Music Systems for Education and More, Oxford UniversityPress, 2011.2.Loy, G.Musemathics: The Mathematical Foundation of Music Vol I, MITPress Books, 2006.3.Loy, G.Musemathics: The Mathematical Foundation of Music Vol II,MIT Press Books, 2006.4.Gray, D., Brown, S., Macanufo, J.Gamestorming: Jogos corporativospara mudar, inovar e quebrar regras. Alta Books, 2012.5.Thompson, J.The Computer Game Design Course. Thames andHudson, 2012."
+  },
+  {
+    "name": "Desenvolvimento de Aplicações Corporativas Avançadas",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Projeto de Software",
+    "owner": "Sistemas e Computação",
+    "ementa": "Projeto de aplicações corporativas avançadas. Desenvolvimento para87Ciência da Computação – UASC/UFCG – Projeto Pedagógicoa internet (lado servidor). Escalabilidade, controle de transações esegurança de aplicações corporativas. Tópicos Avançados.",
+    "bibliography": "1. WALLS, C.Spring Boot in Action. Manning, 2015.2. PANDA, D., RAHMAN R.EJB 3 in Action. Manning, 2014.3. FIELDING, R.Architectural Styles and the Design of Network-basedSoftware Architectures. University of California. 2000.1.BROWN, A., WILSON, G.The Architecture Of Open SourceApplications. lulu.com, 2012."
+  },
+  {
+    "name": "Desenvolvimento de Software Integrado à Operação daInfraestrutura",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Projeto de Software",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução à metodologia DevOps. Integração e Entrega Contínua.Infraestrutura como código. Versionamento. Controle de mudanças.Gerência de Configuração. Monitoramento de aplicações. TópicosAvançados.",
+    "bibliography": "1. VERONA, J.Practical DevOps.Packt Publishing, 2016.2. DUFFY, M.DevOps Automation Cookbook. Packt Publishing, 2015.3. MORRIS, K.Infrastructure as Code: Managing Servers in the Cloud.O’Reill, 2016.88Ciência da Computação – UASC/UFCG – Projeto Pedagógico1. HUMBLE, J. FARLEY, D.Continuous Delivery: Reliable SoftwareReleases through Build, Test, and Deployment Automation. Addison-Wesley Signature Series (Fowler), 2010.2. BEHR, K. KIM, G., SPAFFORD, G.The Visible Ops Handbook:Implementing ITIL in 4 Practical and Auditable Steps. InformationTechnology Process Institute. 2005."
+  },
+  {
+    "name": "Economia de Tecnologia da Informação",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Motivação: Importância da avaliação de investimentos, de benefíciose dos impactos de projetos, produtos e serviços de TI; como definirvalor e preço de produtos e serviços de TI a partir desta avaliação.Definição de valor. Exemplos de exercícios de valoração. Revisão daTeoria de Probabilidades, de Álgebra Intervalar e da Teoria da Utilidade.Breve visita à análise de retorno financeiro, à análise de custos e derisco. Análise de cenários. Opções reais. Arcabouços e modelos paraavaliaçãocorporativa.Preçoeprecificação.Tiposdelicençasdesoftware.AplicaçõesàvaloraçãoeàprecificaçãonaáreadeTecnologias da Informação. O papel e a importância do cliente. Projeto.",
+    "bibliography": "Spohr, E. e Sauvé, J.P.Avaliação do Impacto de TecnologiasEmergentes nos Negócios, Ed. Quality Mark, 2003.Trigeorgis, L.,Real Options, MIT Press, 1996.Day, G.S., Schoemaker, P.J.H., Gunther, R.E. (Editors).Wharton on89Ciência da Computação – UASC/UFCG – Projeto PedagógicoManaging Emerging Technologies, Wiley, 2000.Moura, A., Sauvé, J., Boulmakoul, A.A Possibility Theoretic Model forDecision Support in Business-Driven IT Service Portfolio FinancialManagement under Uncertainty. Proceedings of Hewlett-PackardSoftwareUniversity Association (HP-SUA) 2008.Vídeos sobre composição de custos, preços e precificação da TVSebrae/TV Cultura,comohttp://www.youtube.com/watch?v=LxoLWm6C7MEehttp://www.youtube.com/watch?v=acOF7YS7UMACharette R., 1991,Application Strategies for Risk Analysis, McGraw-Hill, New YorkOctave do CEI/CMU (www.cmu.edu)PMBOK do PMI(www.pmi.org)ITIL - Informatio Technology Infrastrucure Library-www.itil-officialsite.comEdvinsson L., Malone M.S.Capital Intelectual, Makron Books, SãoPaulo, 1998.Jaruzelski B., Loehr J., Holman R.The Global Innovation 1000 – WhyCulture is Key, Strategy + Business, Booz & Company."
+  },
+  {
+    "name": "Empreendedorismo emSoftware",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução ao empreendedorismo: tópicos relacionados à criação eadministração de empresas inovadoras em geral e no ramo desoftware.Softwaresob demanda: tópicos relacionados à prestação de90Ciência da Computação – UASC/UFCG – Projeto Pedagógicoserviços de desenvolvimento desoftwarepara clientes, sob demandados mesmos. Produto/Serviço desoftware: tópicos relacionados àcriação de produtos e serviços próprios e as mais diversas formas denegociação dos mesmos. Criando um produto: tópicos relacionados àcriação de produtos. Inovação: tópicos gerais sobre inovaçãotecnológica, desde propriedade intelectual à subvenção econômica.",
+    "bibliography": "1.DOLABELA, Fernando.O Segredo de Luísa. Sextante, 2008.2.KAHNEY, Leander.A Cabeça de Steve Jobs (Inside Steve's Brain).Agir, 2008.3. MEZRICH, Bem.Bilionários por Acaso: A Criação do Facebook.Intrinseca, 20101. LOCKWOOD, Thomas.Design Thinking: Integrating Innovation,Customer Experience, and Brand Value. Allworth Press. 2009.2. BROWN, Tim.Change by Design: How Design Thinking TransformsOrganizations and Inspires Innovation. HarperBusiness. 2009.3. CROSS, Nigel.Design Thinking: Understanding How DesignersThink and Work.Berg Publishers. 2011.4. GUNTHER, M.Zurich Axioms. Harriman House. 2005.5. DAVIDSON, Neil.Don't Just Roll The Dice - A usefully short guide tosoftware pricing. Red gate books. 2009."
+  },
+  {
+    "name": "Gerência de Redes",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Redes deComputadores",
+    "owner": "Sistemas e Computação",
+    "ementa": "91Ciência da Computação – UASC/UFCG – Projeto PedagógicoConceituação de Gerência de Redes; Modelos de Gerência deRedes; Protocolos de Gerência de Redes; Modelo e Protocolo SNMP;Gerência de Equipamentos de Redes; Gerência de Hospedeiros;Gerência de Aplicações; Estudo de Caso: Instalação, Configuração eUso de Ferramenta de Gerência de Rede.",
+    "bibliography": "1. Comer, E., Stevens, D. L.Internetworking with TCP/IP –Designing, Imple- mentation, and Internals, 3rd edition, Prentice Hall,1998.2. Rose, M. T.The Simple Book : An Introduction to NetworkingManagement, revised 2nd edition, Prentice Hall, 1996.3. Rose, M. T., McCloghrie, K.How to Manage your Network UsingSNMP – The Network Management Practicum, Prentice Hall, 1995.1. Rose & McCloghrie;How to Manage your Network Using SNM_ -The Network Management Practicum; Prentice Hall, 1995.2. Zeltserman, David;Practical Guide to SNMPv3 and NetworkManagement; Prentice Hall, 1999.3. Rose;The Simple Book, 2nd Ed.; Prentice Hall, 1996."
+  },
+  {
+    "name": "Interconexão de Redes de Computadores",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Redes deComputadores",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução e visão geral de interconexão de redes. Tecnologias decomunicação para interconexão de redes (p. ex. LPCD, GEth, xDSL, WiFi,WiMax, MPLS, etc.).Softwarepara interconexão de redes (a família de92Ciência da Computação – UASC/UFCG – Projeto Pedagógicoprotocolos TCP/IP v4 e v6).Hardwarepara interconexão de redes (p. ex.switchs, routers, brouters, etc.). Tecnologias com garantias de serviço.Tópicos avançados em interconexão de redes. Serviços em redes.Introdução à Gerência de Redes.",
+    "bibliography": "1. Tanenbaun, A.S., Wetherall, D.J.Computer Networks,5th Ed. - Ed.Prentice Hall, 2010.2. Comer, D.E.Computer Networks and Internets, 5th Ed. - Ed.Prentice Hall, 2008.3. Kurose, J.F., Ross, K.W.Computer Networking: A Top-downApproach, 6th Ed. - Ed. Addison Wesley, 2012.1. Comer, D.E.Internetworking with TCP/IP, Vol.1, 5th Ed. - Ed.Prentice Hall, 2005.2. Oliviero, A.,Woodward, B. Cabling: The Complete Guide to Copperand Fiber-Optic Networking, 4th Ed. - Ed. Sybex, 2009.3. Douglas, M., Schmidth, K.Essential SNMP, 2nd Ed. - Ed. O’ReillyMedia, 2005.4. Allen, N.Network Maintenance and Troubleshooting Guide, 2nd Ed.- Ed. Addison Wesley, 2009.5. Teare, D. Paquet, C.Campus Network Design Fundamentals- Ed.Cisco Press, 2005."
+  },
+  {
+    "name": "Interface Homem-Máquina",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer93Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Sistemas e Computação",
+    "ementa": "A interface com o usuário: Definição; Importância de um projeto deinterface centrado no usuário; Breve histórico da interação homem-máquina; Características de interfaces gráficas para aplicações desktope Web. Projeto contextual: Gestão do desenvolvimento desoftware;Usabilidade em desenvolvimento desoftware; Ciclo da Engenharia daUsabilidade. Concepção de interfaces com o usuário: Análise derequisitos; Projeto da Tarefa, da Informação e da Interação;Prototipagem; Avaliação.",
+    "bibliography": "1. GALITZ, W. O.The Essential Guide to User Interface Design. JohnWiley & Sons, Inc. 3rd ed. 2007.2. JACKO, J. A.Human-Computer Interaction Handbook:Fundamentals, Evolving Technologies, and Emerging Applications. CRCPress, 3rd ed. 2012.3. SCHNEIDERMAN, J.Designing the User Interface: Strategies forEffective Human-Computer Interaction. Addison Wesley, 5th ed., 2011.1. DIAPER, D. & STANTON, N. A. (Eds.)The handbook of task analysisfor human-computer interaction. Lawrence Erlbaum Associates,Publishers. 2004.2. REISS, E.,Usable Usability: Simple Steps for Making Stuff Better.Wiley, 2012.3. SALVENDRY, G.Handbook of Human Factors and Ergonomics.Wiley, 4th. ed., 2012.4. STEPHANIDES, C.The Universal Access Handbook. CRC Press,2012.5. TIDWELL, J.Designing Interfaces. O'Reilly Media, 2nd ed.,2011.94Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Métodos eSoftwareNuméricos",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Formulação, metodologia e técnicas para análise e soluçãonuméricas de problemas de engenharia, economia, administração.Métodos e ferramentas desoftwarepara cálculo numérico.Fundamentos de computação digital e implicações para erros eestabilidade de algoritmos. Tipos e propagação de erros. Métodos paraextração de raízes. Métodos para resolução de sistemas de equaçõeslineares. Métodos para interpolação e ajustes de curvas. Métodos paraintegração e diferenciação numéricas. Análise de complexidade, erro econvergência de métodos numéricos. Exercícios de fixação. Estudos decasos. Trabalho de disciplina.",
+    "bibliography": "1.Hattori, M. T, & Queiroz, B. C. N.,Métodos e Software Numéricos,Notas de Aulas, Sistemas e Computação da UFCG.2.Ruggiero, M. A. G. & Lopes, V. L. R.Cálculo Numérico: AspectosTeóricos e Computacionais. 2.ed. São Paulo, Makron, 1997.3.Barroso, L. C., Barroso, M. A., Campos, F. F., Carvalho, M. L. B. &Maia, M. L.Cálculo Numérico (Com Aplicações), 2.ed. São Paulo,Editora Arbra, 1987.4.Rice, J. R.,Numerical Methods, Software and Analysis, 2nd ed.,Academic Press, 1992.5.Press, W. H.,Numerical Recipes, Cambridge University Press, 1996.6.Mathews, J. H., and K. D. Fink.Numerical Methods Using MATLAB, 3a.Ed. Upper Saddle River, NJ: Prentice Hall, 1998.95Ciência da Computação – UASC/UFCG – Projeto Pedagógico1.Golub, G. H., Van Load, C. F.Matrix Computation, 3rd edition, JohnHopkins University Press, 1996.2.Young, G.Numerical Mathematics, John Wiley, 1981.3.Hamming, R.W.,Numerical Methods for Scientists and Engineers, 2ndEdition, Dover Publications, N.Y. Unabridged Dover republication ofthe 2nd edition by McGraw-Hill, 1986.4.Conte, S.D., de Boor,C. Introdução à Análise Numérica, McGraw-Hill,1989.5.Goldberg, D.,What Every Computer Scientist Should Know AboutFloating-Point Arithmetic, ACM Computing Surveys, vol. 23, Nº 1,Março 1991.6.Bussieck, M. R.; Dirkse, S. P., Meeraus A.; Pruessner, A.,SoftwareQuality Assurance for Mathematical Modeling Systems, GAMSDevelopment Corporation, 2004.7.http://www.mathworks.com/academia/student_version, acessoem 16de julho 2012."
+  },
+  {
+    "name": "Métodos Formais",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução a Métodos Formais. Definição e benefícios de MétodosFormais. Modelos e processos de desenvolvimento. Tipos de MétodosFormais. Especificação formal. Testes baseados em especificaçõesformais. Verificação de modelos. Ferramentas de apoio.96Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1. OREGAN, Gerard.Mathematical Approaches to Software Quality.Springer, 2006.2. JORGENSEN, Paul C.Modeling Software Behavior: A Craftsman’sApproach. 3. ed. Auerbach Publications, 2011.3.BAIER, Christel; KATOEN, Joost-Pieter.Principles of ModelChecking. MIT Press, 2008.1. JORGENSEN, Paul C.Software Testing: A Craftsman’s Approach.3. ed. Auerbach Publications, 2011.2.PROWELL, Stacy J.; TRAMMELL, Carmen J.; LINGER, Richard C.;POORE, Jesse H.Cleanroom Software Engineering: Technology andProcess. Addison-Wesley, 1999.3.SOMMERVILLE, Ian.Software Engineering. 9. ed. Addison-Wesley, 2010.4.Daniel Jackson and Jeannette Wing,Lightweight FormalMethods, IEEE Computer, April 1996.5.JIM WOODCOCK. PETER GORM LARSEN. JUAN BICARREGUI. JOHNFITZGERALD.Formal Methods: Practice and Experience. ACMComputing Surveys, Vol. 41, No. 4, October 2009, Pages 1-40."
+  },
+  {
+    "name": "Otimização",
+    "hours": "60 horasCRÉDITOS:04PRÉ-REQUISITO:Não requer",
+    "preRequisites": "",
+    "owner": "Sistemas e Computação",
+    "ementa": "Otimização no contínuo, tratamento de restrições; Otimizaçãodiscreta: métodos tradicionais, enumeração exaustiva, pesquisa local,97Ciência da Computação – UASC/UFCG – Projeto Pedagógicobranch-and-bound, programação dinâmica, programação inteira,programação inteira zero-um; Otimização global: Técnicas numéricas,recozimento simulado, pesquisa tabu, Algoritmos Evolucionários,Tomada de decisão multicritério, Analytic Hierarchy Process, Lógicafuzzy.",
+    "bibliography": "1.KORTE, B., VYGEN, J.,Combinatorial Optimization: Theory andAlgorithms, 4th edition, Springer, 2010.2.RAO, S.S.,Engineering Optimization: Theory and Practice, 4thEdition, Wiley, 2009.3.User's manual for CPLEX, IBM, 2009,ftp://public.dhe.ibm.com/software/websphere/ilog/docs/optimization/cplex/ps_usrmancplex.pdf1.PAPADIMITRIOU, C.H., STEIGLITZ, K.,Combinatorial Optimization:Algorithms and Complexity, Dover Publications, 1998.2.LANGDON, W.B., POLI, R.,Foundations of Genetic Programming,Springer, 2010."
+  },
+  {
+    "name": "Prática de Ensino em Computação I",
+    "hours": "30 horasCRÉDITOS:02",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Noções de didática. Recursos pedagógicos. Preparação de aulas eexercícios, execução e avaliação de resultados.98Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1.Astolfi, J.-P.Didática das Ciências, Papirus, 1995.2.Garcia, M. M. A.Didática no Ensino Superior, Papirus, 1994.3.Lollini, P.Didática e Computador: Quando e Como a Informática naEscola, Loyola, 1991.1.Moreira, D. A.Didática do Ensino Superior: Técnicas e Tendências,Pioneira, 1997.2.Presentation Zen: Simple Ideas on Presentation Design andDelivery, Garr Reynolds, New Riders Press, 2008.3.Slide:ology:The Art and Science of Creating Great Presentations,Nancy Duarte, O'Reilly Media, 2008.4.Anais do Workshop de Educação em Informática(WEI). SBC.5.ACM Special Interest Group on Computer Science Education.http://www.sigcse.org/. Acessado em 20/09/2016."
+  },
+  {
+    "name": "Prática de Ensino em Computação II",
+    "hours": "30 horasCRÉDITOS:02",
+    "preRequisites": "Prática de Ensino emComputação I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Noções avançada de didática e preparação de atividades deeducação em computação.",
+    "bibliography": "1.Astolfi, J.-P.Didática das Ciências, Papirus, 1995.2.Garcia, M. M. A.Didática no Ensino Superior, Papirus, 1994.3.Lollini, P.Didática e Computador: Quando e Como a Informática na99Ciência da Computação – UASC/UFCG – Projeto PedagógicoEscola, Loyola, 1991.1.Moreira, D. A.Didática do Ensino Superior: Técnicas e Tendências,Pioneira, 1997.2.Presentation Zen: Simple Ideas on Presentation Design andDelivery, Garr Reynolds, New Riders Press, 2008.3.slide:ology:The Art and Science of Creating Great Presentations,Nancy Duarte, O'Reilly Media, 2008.4.Anais do Workshop de Educação em Informática(WEI). SBC.ACM Special Interest Group on Computer Science Education.http://www.sigcse.org/. Acessado em 20/09/2016."
+  },
+  {
+    "name": "Princípios de Desenvolvimento Web",
+    "hours": "60 horasCRÉDITOS:4 créditos",
+    "preRequisites": "Programação II",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução à Internet e à Web. Protocolos de comunicação etransferência de dados. Linguagens de script. Desenvolvimento paraa Web (lado cliente). Tópicos avançados.",
+    "bibliography": "1.Blank,A.G.TCP/IP JumpStart: Internet Protocol Basics. Sybex. 2002.2.Morrison,M.Head First JavaScript. O'Reilly Media. 2008.3.Shelly G.B., Woods, D.M.HTML, XHTML, and CSS: Introductory.Course Technology. 2010.1.Gralla,P.How the Internet Works. Que. 2006.100Ciência da Computação – UASC/UFCG – Projeto Pedagógico2.Robbins,J.N., Gustafson,A.Learning Web Design: A Beginner'sGuide to (X)HTML, StyleSheets, and Web Graphics. O'Reilly Media.2007.3.Morris,T., Felke-Morris,T.Basics of Web Design: HTML5 and CSS3.Addison Wesley. 2011.4.Shklar,L., Rosen,R.Web Application Architecture: Principles,Protocols and Practices. Wiley. 2009.5.Castro,E.HTML, XHTML, and CSS. Peachpit Press. 2006."
+  },
+  {
+    "name": "Programação em Banco de Dados",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Banco de Dados I",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução às linguagens de programação de banco de dados.Definição de variáveis e tipos de dados. Controle de Fluxo. Entrada esaída de dados. Cursores. Tratamento de erros e exceções.Construção de subprogramas (procedimentos, funções, pacotes,gatilhos). Utilização de subprogramas embutidos. SQL Avançado.",
+    "bibliography": "1. McLaughlin, M.Oracle Database 11g PL/SQL Programação. AltaBooks, 2009.2. Manuais de Programação dos SGBDs: Oracle, SQL Server, DB2,PostgreSQL, MySQL.3.Elmasri, R., Navathe, S.Sistemas de Banco de Dados. PearsonEducation, 6ª Edição, 20111. Feuerstein, S., Pribyl, B., Dawes,C. Linguagem PL/SQL Oracle:Guia de Bolso. 1ª Edição, Alta Books, 2006.101Ciência da Computação – UASC/UFCG – Projeto Pedagógico2. Silberschatz, A., Korth, H. F., Sudarshan, S.Sistema de Banco deDados. Editora Campus, 5ª Edição, 2006.3.Kellenberger, K., Shaw, S.Beginning T-SQL 2012. Apress, 2ndEdition, 2012.4. Harrison, G., Feuerstein, S.MySQL Stored ProcedureProgramming. O'Reilly Media, 1st Edition, 2006.5.SQL Enlight - Analysis and Refactoring.http://www.ubitsoft.com/products/sqlenlight/sqlenlight.php, últimoacesso em 18/Jul/2016."
+  },
+  {
+    "name": "Projeto de Redes de Computadores",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Redes deComputadores",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceituação em Projeto de Redes de Computadores;Metodologias para Projeto de Redes de Computadores; A Metodologia“Top-down” para Projeto de Redes de Computadores; Estudo de caso:projeto de uma Rede de Computadores com atendimento à umconjunto elaborado de requisitos",
+    "bibliography": "1.Oppenheimer, P.Top-down Network Design, 3rd Ed.; Cisco Press,2010.2.Teare, D., Paquet, C.Campus Network Design Fundamentals; CiscoPress, 2005.3.Derfler, F.Practical Network Cabling; Ed. QUE, 2000.1.Quinn-Andy, T., Haller, K.Design Campus Networks. Cisco Press,102Ciência da Computação – UASC/UFCG – Projeto Pedagógico2000.2.Gasparini, A.F.L.Projetos para Redes Metropolitanas e de LongaDistância, 2a Ed.; Ed. Érica, 2002.3.Soares Neto, V.Redes de Alta Velocidade - CabeamentoEstruturado, 3a Ed.; Ed. Érica, 2002."
+  },
+  {
+    "name": "Provisionamento e Operação de Infraestrutura",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "SistemasOperacionais",
+    "owner": "Sistemas e Computação",
+    "ementa": "Introdução a conceitos de provisionamento, gerência e operaçãode sistemas de TI. Modelos de implantação da infraestrutura. Projetoe planejamento da infraestrutura. Monitoramento e operação dosserviços na infraestrutura. Provisionamento de recursos para serviços.Tópicos avançados.",
+    "bibliography": "1. THOMAS E., COPE, R., AND NASERPOUR, A.Cloud ComputingDesign Patterns. Prentice Hall Press, 2015.2. THOMAS, E., PUTTINI, R., MAHMOOD Z.Cloud computing:Concepts, Technology & Architecture. Prentice Hall Press, 2013.3. KAVIS, M.J.Architecting the cloud: Design Decisions for CloudComputing Service Models (SaaS, PaaS, AND IaaS). John Wiley & Sons,2014.1. WITTIG, A., WITTIG A.Amazon Web Services in Action. ManningPublications Co., 2015.2. BUMGARDNER, V.K.C.OpenStack in Action. Manning103Ciência da Computação – UASC/UFCG – Projeto PedagógicoPublications Company, 2016.3. RHOTON, J. CloudComputing Explained: ImplementationHandbook for Enterprises. 2a edição, Recursive Press, 2009.4. FEHLING C., LEYMANN F., RETTER, R., SCHUPECK W., ARBITTER,P.Cloud Computing Patterns: Fundamentals to Design, Build, andManage Cloud Applications. Springer, 2014.5. REESE, G.Cloud application architectures: building applicationsand infrastructure in the cloud.O'Reilly, 2009."
+  },
+  {
+    "name": "Reconhecimento de Padrões e Redes Neurais",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Estatística Aplicada,Análise e Técnicas deAlgoritmos",
+    "owner": "Sistemas e Computação",
+    "ementa": "Padrões e suas Representações. Sistema Típico deReconhecimento de Padrões. Processos Supervisionado e Não-Supervisionado. Introdução ao Reconhecimento Estatístico dePadrões. Aprendizagem em Redes Neurais. Análise de ComponentesPrincipais. Perceptrons de Simples e Múltiplas Camadas. Mapas AutoOrganizáveis. Redes Neurais Recorrentes. Previsão e Análise de SériesTemporais. Aplicações.",
+    "bibliography": "1.Haykin H.Neural Networks and Learning Machines, 3rd Edition,2008.2.Duda,R.O., Hart, P.E. and Stork, E.Pattern Classification, 2ndEdition, 2000.3.Webb,A.R., Copsey,K.D.Statistical Pattern Recognition. 2011.104Ciência da Computação – UASC/UFCG – Projeto Pedagógico1.Theodoridis,S., Koutroumbas,K.Pattern Recognition (FourthEdition).2008.2.Bishop,M. PatternRecognition and Machine Learning (InformationScience and Statistics). 2007.3.Zhang,G.P.Neural Networks in Business Forecasting. 2003.4.McClelland,J.L., Rumelhart,D.E.Explorations in Parallel DistributedProcessing. The MIT Press. 1988.5.Kóvacs, Z.L.Redes Neurais: Fundamentos e Aplicações. EdiçãoAcadêmica, 1996."
+  },
+  {
+    "name": "Recuperação da Informação e Busca na Web",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Arquitetura de uma ferramenta de busca. Técnicas básicas eavançadas de recuperação textual. Técnicas de indexação textual.Modelo de recuperação vetorial e booleano. Busca na Web. Busca emdados semi-estruturados. Tópicos avançados.",
+    "bibliography": "1.Manning, P., Raghavan R, Schütze H.Introduction to InformationRetrieval,Cambridge University Press, 2008.2.Baeza-Yates R., Ribeiro-Neto,B.Modern Information Retrieval - TheConcepts and Technology behind Search, 2nd Edition, ACM PressBooks, 2011.3.Croft, B., Metzler, D., Strohman, T.Search Engines: InformationRetrieval in Practice. Addison Wesley, 2009.105Ciência da Computação – UASC/UFCG – Projeto Pedagógico1.Grossman D.A., Frieder, O.Information Retrieval: Algorithms andHeuristics, 2nd Edition. Springer, 2004.2.Abiteboul, S., Buneman, P., Suciu, D.Data on the Web: FromRelations to Semistructured Data and XML, Morgan Kaufmann,1999.3.Manning, C.D., Schuetze, H.Foundations of Statistical NaturalLanguage Processing.The MIT Press, 1999.4.Witten, I., Moffat, A., Bell, T.C.Managing Gigabytes: Compressingand Indexing Documents and Images, Morgan Kaufmann, SecondEdition, 1999.5.Chakrabarti, S.Mining the Web: Discovering Knowledge fromHypertext Data,Morgan Kaufmann, 2002."
+  },
+  {
+    "name": "Segurança de Sistemas",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "SistemasOperacionais e Redesde Computadores",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceituação de Segurança em Sistemas de Tecnologia daInformação e Comunicações. Ferramentas de ataque, ameaças desegurança e vulnerabilidades típicas. Conceitos e Modelos deEsquemas de Criptografia; Conceitos e Esquemas de Aplicações deAutenticação e controle de acesso.  Conceituação e Modelos deFirewall. Estudos de casos: Segurança em computação na nuvem,sistemas embarcados, Serviços Web e Internet.106Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1. VACCA, J. R., ed.Network and system security. Elsevier, 2013.2. KIM, D., and SOLOMON M.Fundamentals of information systemssecurity.Jones & Bartlett Publishers, 2013.3. ALLEN, J. H.;CERT - Guide do System and Network SecurityPractices; Addison Wesley, 2001.1. TITTLE, E., STEWART J., CHAPPLE M.CISSP: Certified InformationSystemsSecurity Professional Study Guide. John Wiley & Sons, 2006.2. ANDERSON, R.Security Engineering. John Wiley & Sons, 2008.3. STALLINGS, W.;Network Security Essentials, 3rd Ed.; PearsonPrentice Hall, 2007.4. STALLINGS, W.;Cryptography and Network Security, 4th Ed.;Pearson Prentice Hall, 2006.5. ERL, T., PUTTINI R., MAHMOOD Z.Cloud Computing: Concepts,Technology & Architecture. Prentice Hall Press, 2013."
+  },
+  {
+    "name": "Sistemas de Apoio à Decisão",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Os conceitos, níveis e tipos de decisão nas organizações. Osestágios do processo decisório. Os modelos individuais de tomada dedecisão. Os modelos organizacionais de tomada de decisão. Teorias,metodologias, técnicas e ferramentas aplicáveis à análise dedecisões. Os conceitos de sistema de apoio à decisão. Os tipos desistemas de apoio à decisão.Componentes de sistemas de apoio à107Ciência da Computação – UASC/UFCG – Projeto Pedagógicodecisão. Metodologias, técnicas e ferramentas de desenvolvimento desistemas de apoio à decisão. Projeto e implementação de sistema deapoio à decisão focado em dados. Business Intelligence. Descobertade Conhecimento em Bancos de Dados. Tópicos Avançados.",
+    "bibliography": "1.Kimball, R., Ross, M., Thornthwaite, W., Mundy, J., Becker, B.TheData Warehouse Lifecycle Toolkit. Wiley, 2nd Edition, 2008.2.Silberschatz, A., Korth, H. F., Sudarshan, S.Sistema de Banco deDados. Editora Campus, 5ª Edição, 2006.3.Turban, E., Aronson, J. E., Liang, T.-P., Sharda, R.Decision Supportand Business Intelligence Systems. Prentice Hall, 8th Edition, 2006.1.Tan, P.-N., Steinbach, M., Kumar, V.Introduction to Data Mining.Addison-Wesley, 1st Edition, 2006.2.Bouman, R., Dongen, J.Pentaho Solutions: Business Intelligenceand Data Warehousing with Pentaho and MySQL, Wiley, 2009.3.Sprague, R. H., Watson, H. J.Sistema de Apoio à Decisão. EditoraCampus, 1991.4.Garcia-Molina, H., Ullman, J. D., Widom, J. D.Database Systems:The Complete Book. Prentice Hall, 2nd Edition, 2008.5.Inmon, W. H.Building the Data Warehouse. Wiley, 4th Edition,2005.108Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Sistemas de Informação Geográfica",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Conceitos básicos de Geoprocessamento. Fontes de dadosespaciais. Introdução à Cartografia. Sistemas de PosicionamentoGlobal. Representação de dados espaciais. Estruturas de DadosEspaciais. Bancos de Dados Espaciais. Análise Espacial. Servidores deMapas. Serviços Baseados em Localização.",
+    "bibliography": "1.Davis,S.GIS for Web Developers. Pragmatic Bookshelf, 2007.2.Casanova,M.Bancos de Dados Geográficos, INPE, 2005.3.Worboys, M., Duckham, M..GIS: A Computing Perspective. CRCPress 2004.1.Longley, P.A., Goodchild, M., Maguire, D.J., Rhind, D.W.GeographicInformation Systems and Science. Wiley, 3rd Edition, 2010.2.Rigaux, P.,Scholl, M., Voisard, A.Spatial Databases with Applicationto GIS.Morgan Kaufmann, 2001.3.Burrough, P. , McDonnell, R.Principles of Geographical InformationSystems. Oxford Press, 1998.4.Maguire, D.J., Goodchild, M., Batty, M.GIS, Spatial Analysis, andModeling. ESRI Press, 2005.5.Ahson, S.A., Ilyas, M.Location-Based Services Handbook:Applications, Technologies, and Security. CRC Press, 2010.109Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Sistemas Distribuídos",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Diferenças entre sistemas distribuídos e sistemas centralizados.Comunicação em sistemas distribuídos. Modelos de sistemasdistribuídos. Sincronização em sistemas distribuídos. Arquitetura deSistemas Distribuídos. Confiabilidade e segurança em sistemasdistribuídos. Estudos de caso.",
+    "bibliography": "1. Couloris, G., Dollimore, J., Kindberg, T.Sistemas Distribuídos:conceitos e projeto, Bookman, 2007, 4a. Edição.2. Tanenbaum, A. S., Van Steen, M.Sistemas Distribuídos:princípios e paradigmas,Prentice Hall, 2007, 2a. Edição.3. Veríssimo, P., Rodrigues , L.Distributed Systems for SystemArchitects, Springer, 1a edição, 2001.1. Goetz, B., Peierls, T., Bloch, J., Bowbeer, J., Holmen, D., Lea, D.Java Concurrency in Practice. Addison-Wesley Professional, 1a. Edição,2006.2. Herlihy, M., Shavit, N.The Art of Multiprocessor Programming.Morgan Kaufmann, 1a. Edição, 2008.3. Lynch, N. A.Distributed Algorithms,Morgan Kaufmann, 1996.4. Kshemkalyani, A. D., Singhal, M.Distributed Computing.Cambridge University Press, 2011.5. Hwang, K., Dongarra, J., Fox, G. C.Distributed and Cloud110Ciência da Computação – UASC/UFCG – Projeto PedagógicoComputing. Morgan Kaufmann, 2011.6. Birman, K. P.Building Secure and Reliable Network Applications,Manning Publications Co., 1996.7. Waldo, J., Wyant, G., Wollrath, A., Kendall, S.A note onDistributed Computing. Relatório Técnico, (SMLI TR94-29), SunMicrosystems Laboratories Inc., 1994."
+  },
+  {
+    "name": "Tópicos em Ciência da Computação I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Ementa livre para tópicos nas áreas de Ciência da Computação.",
+    "bibliography": "Bibliografia específica para o tópico a ser abordado.Bibliografia específica para o tópico a ser abordado."
+  },
+  {
+    "name": "Tópicos em Ciência da Computação II",
+    "hours": "30 horasCRÉDITOS:02",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Ementa livre para tópicos nas áreas de Ciência da Computação.111Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "Bibliografia específica para o tópico a ser abordado.Bibliografia específica para o tópico a ser abordado."
+  },
+  {
+    "name": "Verificação e Validação deSoftware",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Engenharia deSoftware",
+    "owner": "Sistemas e Computação",
+    "ementa": "Terminologia e conceitos fundamentais, níveis e tipos de teste,processos e atividades de teste, princípios e ética, análise estáticaautomática e inspeção desoftware, o modelo V, planejamento de testes,gerência de processos e artefatos de teste, critérios e ferramentas decobertura, técnicas e estratégias clássicas Black-box e White-box:partição por equivalências, valores limite, tabelas de decisão, teste decaminhos, teste de fluxo de dados. Técnicas de teste de integração,teste de sistema, teste de aceitação, teste de regressão, teste de GUI,teste de stress, teste de carga, teste de configuração, teste randômico,teste exploratório.Geração, seleção e priorização de casos de teste.Projeto de casos de teste e seleção de dados de teste. Ferramentas deTeste. Teste aplicado a domínios específicos.",
+    "bibliography": "1.Jorgensen, P.Software Testing: A Craftsman’s Approach, ThirdEdition, 2008.2.Kaner, J.B., Pettichord, B.Lessons Learned in Software Testing.Wiley, 2001.112Ciência da Computação – UASC/UFCG – Projeto Pedagógico3.Myers,G. J., Sandler,C., Badgett, T.The Art of Software Testing. 3rdEdition, Wiley, 2011.1. Copeland, L.A Practitioner’s Guide to Software Test Design. ArtechHouse Publishers, 2004.2. McCaffrey, J.D.Software Testing: Fundamental Principles andEssential Knowledge. BookSurge Publishing, 2009.3. Craig, R.D., Jaskiel, S.P.Systematic Software Testing.Artech HousePublishers, 2002.4. Graham, M.F.Experiences of Test Automation.Addison-Wesley,2012.5. Ammann, P., Offutt, J.Introduction to Software Testing.CambridgeUniversity Press, 2008."
+  },
+  {
+    "name": "Visão Computacional",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Visão por computador. Aquisição de imagens e sensores de visão.Pré-processamento e segmentação de imagens. Descrição,representação, reconhecimento de padrões e decisão. Visão 2D e 3D.Análise de movimento e rastreamento de objetos. Arquiteturas.Ferramentas. Aplicações.",
+    "bibliography": "1.Szeliski, R.Computer Vision: Algorithms and Applications, Springer,2011.113Ciência da Computação – UASC/UFCG – Projeto Pedagógico2.Gonzalez, R., Woods, R.Digital Image Processing, Prentice Hall,2008.3.Forsyth, D.A., Ponce, J.Computer Vision: A modern approach,Prentice Hall, 2003.1.Sebe, N., Cohen, I., Garg, A., Huang, T.Machine Learning inComputer Vision,Springer, 2005.2.Shapiro, L.G., Stockman, G.Computer Vision, Prentice Hall, 2001.3.Shah, M.Fundamentals of Computer Vision, 1997.4.Jain, R., Kasturi, R., Schunck, B.G.Machine Vision, McGraw-Hill,1995.5.Marr, D.Vision. Freeman, 1982.C. Componentes Curriculares Optativos de Formação Geral"
+  },
+  {
+    "name": "Administração e Empreendedorismo",
+    "hours": "60 horasCRÉDITOS:04 (quatro)",
+    "preRequisites": "Não requer",
+    "owner": "Administração e Contabilidade",
+    "ementa": "Administração e funções gerenciais; Áreas Funcionais da Empresa(Operações; Marketing e Vendas; Finanças; Recursos Humanos);Empreendedorismo e Empreendedor; Inovação; Fontes de Inovação;Ferramentas úteis ao empreendedor (marketing e administraçãoestratégica); Plano de Negócios (etapas, processos e elaboração).114Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1.BARON, Robert A.; SHANE, Scott A.Empreendedorismo: uma visãodo processo. São Paulo: Cengage Learning, 2010.2.DRUCKER, Peter F.Inovação e espírito empreendedor(Entrepreneurship): Práticas e princípios.São Paulo: PioneiraThomson Learning, 2005 .3.HITT, Michael A.; IRELAND, R. Duane; HOSKISSON, Robert E.Administração Estratégica.São Paulo: Cengage Learning, 2008.4.MAXIMIANO, Antonio Cesar A.Administração paraempreendedores: fundamentos da criação e da gestão de novosnegócios. São Paulo: Pearson Prentice Hall, 2011.1.BAKER, Michael.Administração de Marketing. Rio de Janeiro:Elsevier, 2005.2.DOLABELA, Fernando.Oficina do Empreendedor.São Paulo: Editorade Cultura, 1999.3.DOLABELA, Fernando.O Segredo de Luísa. São Paulo: Cultura,1999.4.HOOLEY, Graham J; SAUNDERS, John A.; PIERCY, Nigel F.Estratégiade Marketing e Posicionamento Competitivo. Sao Paulo: PrenticeHall, 2001.5.KOTLER, Philip; KELLER, Kevin.Administração de Marketing. 12ªEd. São Paulo: Pearson, 2006.6.PESCE, Bell.A menina do vale. Ed. Casa da Palavra, 2012."
+  },
+  {
+    "name": "Álgebra Vetorial e Geometria Analítica",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer115Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Matemática",
+    "ementa": "Álgebra de Vetores no Plano e no espaço tridimensional. Retas.Planos. Cônicas e Quádricas. Sistemas de coordenadas polares,cilíndricas e esféricas.",
+    "bibliography": "1.CAMARGO, I., BOULUS, P.Geometria analítica,3ª ed. São Paulo:Pearson Prentice Hall, 2005.2.LIMA, E. L.Geometria analítica e Álgebra Linear. ColeçãoMatemática Universitária, Rio de Janeiro: SBM – SociedadeBrasileira de Matemática, 2001.3.REIS, G. L., SILVA, V. V.Geometria Analítica, 2ª ed. Rio de Janeiro:LTC Livros Técnicos e Científicos. 1996.1.SANTOS, N. M. dos,Vetores e Matrizes: uma introdução a álgebralinear. 4ª ed., Editora Thomson, 2007.2.STEINBRUCH, A., WINTERLE, P.Geometria Analítica.Ed. MakronBooks, 1987.3.SWOKOWSKI, E.Cálculo Com Geometria Analítica.. Volume 2, 2 ed.São Paulo: Makron Books do Brasil, 1995.4.THOMAS, G. B.Cálculo. Volume 2, 10ª ed. São Paulo: AddisonWesley, 2002.5.WINTERLE, P.Vetores e Geometria Analítica.São Paulo: MakronBooks do Brasil., 2000.116Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Cálculo Diferencial e Integral III",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Cálculo Diferencial eIntegral II; Fundamentos deMatemática para Ciência daComputação II",
+    "owner": "Matemática",
+    "ementa": "Funções de várias variáveis. Limites e continuidade de funções demais de uma variável. Derivadas parciais e direcionais. Máximos emínimos. Multiplicadores de Lagrange. Integrais múltiplas. Teoremada Mudança de Variáveis. Aplicações.",
+    "bibliography": "1.STEWART, J.Cálculo. Volume 2, 5 ed., Editora Thomson, 2006.2.SWOKOWSKI, E.Cálculo Com Geometria Analítica. Volume 2, 2 ed.São Paulo: Makron Books do Brasil, 1995.3.THOMAS, G. B.Cálculo. Volume 2. 11 ed. São Paulo: AddisonWesley, 2009.1.ÁVILA, G.Cálculo das funções de uma variável, Volume 2, 7 ed. Riode janeiro: LTC – Livros Técnicos e Científicos, 2004.2.BOULOS, P., ABUD, Z.I.Cálculo Diferencial e Integral, Volume 1 e 2.São Paulo: Makron Books do Brasil, 2000.3.GUIDORIZZI, H. L.Um Curo de Cálculo, Volume 2, 5 ed. Rio dejaneiro: LTC – Livros Técnicos e científicos Editora, 2002.4.FLEMING, D. M., GONÇALVES, M. B.Cálculo B. 6 ed., EditoraPearson – Prentice Hall, 2007.5.MCCALLUM, W.G.Cálculo de Várias Variáveis.Edgard Blücher,1997.117Ciência da Computação – UASC/UFCG – Projeto Pedagógico6.MUNEM, M. A., FOULIS, D. J.Cálculo. Volume 2, 1 ed., EditoraGuanabara Dois, 1982."
+  },
+  {
+    "name": "Direito e cidadania",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Ciências Sociais",
+    "ementa": "Noções Gerais de Direito. Direito do Trabalho. Direitos humanos.Relações étnico-raciais. Propriedade Intelectual e Industrial. InovaçãoTecnológica. Legislação de Informática.",
+    "bibliography": "1.KUMPEL, V.F., SERAFIM, A.P.; ASSIS, O.Q.; ASSIS, A.E.Noções Geraisde Direito e Formação Humanística.  2ª. Ed.  São Paulo: EditoraSaraiva, 2012.2.PAESANI, L.M.Manual de propriedade intelectual.  1ª ed. SãoPaulo: Atlas, 20123.SARMENTO, D., IKAWA, D., PIOVESAN, F.Igualdade, diferenças edireitos humanos.  2ª tiragem. Rio de Janeiro: Lumen Juris, 2010.1.MORAES, A. de; PAEKIM,R.Cidadania: o novo conceito jurídico e asua relação com os direitos fundamentais individuais e coletivos.1ª ed. São Paulo: Atlas, 2013.2.ALMEIDA FILHO, J.C.A., CASTRO, A.A.Manual de informáticajurídica e direito da informática. Rio de Janeiro: Forense, 2005.3.MARTINS, S.P.Direito do trabalho. 29ª Ed. São Paulo: Atlas, 2013.118Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Economia",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Economia",
+    "ementa": "Introdução ao estudo da Ciência Econômica. Introdução àMicroeconomia: demanda e oferta de bens; equilíbrio no mercado eestruturas de mercado. Introdução à Macroeconomia: os agregadosmacroeconômicos: consumo, poupança, investimento; o setorpúblico; Fundamentos de análise econômico-social de projetos;noções de matemática financeira aplicadas a análise deinvestimentos.",
+    "bibliography": "1.BUARQUE, C..Avaliação econômica de projetos. Rio de Janeiro:Elsevier, 1994.2.CANO, W..Introdução à economia. 2. ed. São Paulo: UNESP, 2007.3.CARVALHO, L.C.S.Matemática financeira aplicada.Rio de Janeiro:FGV, 2009.4.CASAROTTO FILHO, N.Elaboração de projetos empresariais. SãoPaulo: Atlas, 2009.5.MANKIW, N. G.Introdução à economia: princípios de micro emacroeconomia.Rio de Janeiro: Campus, 2007.6.PINHO, D.B.; VASCONCELLOS, M. A. S.Manual de introdução àeconomia.São Paulo: Saraiva, 2006.7.VERAS, L.L.Matemáticaira. 6. ed. São Paulo: Atlas, 2007.1.CLEMENTE, A.Projetos empresariais e públicos. 3. ed. São Paulo:Atlas, 2008.119Ciência da Computação – UASC/UFCG – Projeto Pedagógico2.PUCCINI, A.L.Matemática financeira.8. ed. São Paulo: Saraiva,2009.3.PUCCINI, A.L.Matemática financeira objetiva e aplicada. São Paulo:Saraiva, 2006.4.SALVATORE, D.Introdução à economia internacional.Rio deJaneiro: LTC, 2007.5.VASCONCELLOS, M. A. S.; GARCIA, M. E.Fundamentos deeconomia. 2. ed. São Paulo: Saraiva, 2004."
+  },
+  {
+    "name": "Física Geral I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Física",
+    "ementa": "Movimento em uma duas e três dimensões. Leis de Newton -aplicações. Trabalho e energia. Conservação da energia. Sistemas departículas. Colisões. Rotação de um corpo rígido em torno de um eixo.Rotação no espaço.",
+    "bibliography": "1. CHAVES, A., SAMPAIO, J. F.Física Básica — Mecânica.Rio deJaneiro: LTC/LAB, 2007.2. HALLIDAY, D., RESNICK, R., E. WALKER, J. ..Fundamentos daFísica.4.ed. Rio de Janeiro: LTC, 1996.3. TIPLER, P.A., MOSCA, G.Física para cientistas e engenheiros -Mecânica, Oscilações e Ondas, Termodinâmica.5.ed. Rio de Janeiro:LTC, 2006.4. SEARS, F.W., ZEMANSKY, M.W., YOUNG, H.D., FREEDMAN, R. A. F.,Física I. 10.ed. São Paulo: Addison Wesley, 2008.120Ciência da Computação – UASC/UFCG – Projeto Pedagógico1. COHEN, I. B., WESTFALL, R. S. (Orgs.).Newton: textos,antecedentes, comentários.Rio de Janeiro: EDUERJ/CONTRAPONTO,2002.2. CUTNELL, J. D., JOHNSON, K. W.Física. Rio de Janeiro: LCT, 2006.3. HALLIDAY, D., RESNICK, R., KRANE, K.Física. 6. ed. Rio deJaneiro: LTC, 2008.4. MCKELVEY, J. P.Física. São Paulo: Harbra, 1981.5. NUSSENZVEIG, M.Curso de Física Básica: Mecânica. 4.ed. SãoPaulo: Edgard Blucher, 2003."
+  },
+  {
+    "name": "Física Geral II",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Física Geral I, CálculoDiferencial e Integral I,Fundamentos deMatemática paraCiência da ComputaçãoII",
+    "owner": "Física",
+    "ementa": "Fluidos, Temperatura. Calor e 1ª lei da termodinâmica. Teoriacinética dos gases. 2ª lei da termodinâmica e entropia. Oscilações.Ondas. Movimento ondulatório. Ondas sonoras. Óptica Geométrica.",
+    "bibliography": "1. HALLIDAY, D.; RESNICK, R.; E. WALKER, J.Fundamentos da física.Vol. 1. 4.ed.- Rio de Janeiro: LTC, 1996.2. SEARS, F. W., ZEMANSKY, M.W., YOUNG, H. D., FREEDMAN, R. A.F.,Física II. 12.ed. São Paulo: Addison Wesley, 2008.121Ciência da Computação – UASC/UFCG – Projeto Pedagógico3. SEARS, F.W., ZEMANSKY, M. W., YOUNG, H. D., FREEDMAN, R.  A.F.,Física IV. 12.ed. São Paulo: Addison Wesley, 2008.4. TIPLER, P. A.; MOSCA, G..Física para cientistas e engenheiros -Mecânica, Oscilações e Ondas, Termodinâmica. 5.ed. Rio de Janeiro:LTC, 2006.1. CUTNELL, J. D.; JOHNSON, K. W.Física, Vol. 2. Rio de Janeiro:LCT, 2006.2. NUSSENZVEIG, M.Curso de Física Básica. Fluidos, Oscilações eOndas de Calor. 4.ed. São Paulo: Edgard Blucher, 2003.3. HALLIDAY, D.; RESNICK, R.; KRANE, K..Física.Vol. 2. 6. ed, Riode Janeiro, LTC, 2008.4. MCKELVEY, J. P.,Física.Vol. 2. São Paulo: Editora Harbra, 19815. CHAVES, A. S.,Física. Vol. 2. 2.ed. São Paulo: Ed.Reichmann&Affonso, 2008."
+  },
+  {
+    "name": "Física Geral III",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Física Geral II,Cálculo Diferencial eIntegral II",
+    "owner": "Física",
+    "ementa": "Carga Elétrica. O campo elétrico. Lei de Gauss. Potencial elétrico,capacitores e dielétricos. Corrente e resistência. Força eletromotriz ecircuitos. Campo magnético. Lei de Ámpere. Lei de Faraday.Indutância. Magnetismo e meios materiais. Correntes alternadas.122Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "bibliography": "1. HALLIDAY, D.; RESNICK, R.; WALKER, J.Fundamentos da Física.Vol. 3. 7.ed. Rio de Janeiro: LTC, 2006.2. SEARS, Francis W., ZEMANSKY, Mark W., YOUNG, Hugh D.,FREEDMAN, Roger A. F.,Física III. 12.ed. São Paulo: Addison Wesley,2008.3. TIPLER, Paul A.; MOSCA, Gene.Física para cientistas eengenheiros - Eletricidade e Magnetismo, Ótica. 5.ed. Rio de Janeiro:LTC, 2006.1. CUTNELL, J.D.; JOHNSON, K.W.Física. Vol. 3. Rio de Janeiro: LCT,2006.2. NUSSENZVEIG, M.Curso de Física Básica. Fluidos, Oscilações eOndas de Calor.4. ed. São Paulo: Edgard Blucher, 2003.3. HALLIDAY, D.; RESNICK, R.; KRANE, K..Física.Vol. 3, 6. ed. Riode Janeiro: LTC, 2008.4. MCKELVEY, J. P.,Física. Vol 3, São Paulo: Editora Harbra, 1981.5. CHAVES, A. S.,Física.Vol 3, 2. e d. São Paulo: Ed. Reichmann &Affonso, 2008."
+  },
+  {
+    "name": "Física Geral IV",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "FísicaGeralIII,CálculoDiferencial e Integral III",
+    "owner": "Física",
+    "ementa": "EquaçõesdeMaxwelleondaseletromagnéticas.Naturezae123Ciência da Computação – UASC/UFCG – Projeto Pedagógicopropagação da luz; Interferência e difração. Tópicos da Teoria daRelatividade Especial. Tópicos de Física Moderna.",
+    "bibliography": "1. HALLIDAY, D.; RESNICK, R.; WALKER, J.Fundamentos da Física.Vol. 3. 7.ed. Rio de Janeiro: LTC, 20062. HALLIDAY, D.; RESNICK, R..Fundamentos de Física.Vol 4. Rio deJaneiro: LTC, 2006.3. SEARS, F. W., ZEMANSKY, M.W., YOUNG, H. D., FREEDMAN, R. A.F.,Física III. 12.ed. São Paulo: Addison Wesley, 2008.4. SEARS, F.W., ZEMANSKY, M.W., YOUNG, H.D., FREEDMAN, R.A.F.,Física IV.12.ed. São Paulo: Addison Wesley, 2008.5. TIPLER, P.A.; MOSCA, G.Física para cientistas e engenheiros -Eletricidade e Magnetismo, Ótica. 5.ed. Rio de Janeiro: LTC, 20066. TIPLER, P.A.Física Moderna. Rio de Janeiro: Guanabara Dois,1981.1. EISBERG, R., RESNICK, R.Física Quântica. 4. ed. Rio de Janeiro:Campus, 1979.2. NUSSENZVEIG, M.Curso de Física Básica. São Paulo: EdgardBlucher, 2006.3. HALLIDAY, D., RESNICK, R., KRANE, K.Física.Vol. 2, 6.ed. Rio deJaneiro: LTC, 20084. CHAVES, A. S.Física. Vol 2. 2.ed. São Paulo: Ed.Reichmann&Affonso, 2008,5. FEYNMAN, R.P., LEIGHTON, R.B., SAND, M.Lições de Física deFeynmanV.3,SãoPaulo,Ed.Artmed,2008.124Ciência da Computação – UASC/UFCG – Projeto Pedagógico"
+  },
+  {
+    "name": "Informática e Sociedade",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "O desenvolvimento científico e tecnológico para a sociedade, acultura e o indivíduo. A revolução das tecnologias da informação. Aemergência da nova economia: informacionalismo, globalização esociedade em redes. As tecnologias da informação como construçãosocial:relaçõesdetrabalho,carreiraprofissional,éticadosempreendimentos e propriedade intelectual. A política e a cidadaniana sociedade do conhecimento.",
+    "bibliography": "CASTELLS, M.A Sociedade em Redes. Vol. 1. A Era da Informação:Economia, Sociedade e Cultura.6. edição. São Paulo: Paz e Terra,2010.CASTELLS, M.A Galáxia da Internet: reflexões sobre a Internet, osnegócios e a sociedade.Rio de Janeiro: Jorge Zahar Ed., 2003.LÉVY, P.Cibercultura. Terceira edição. São Paulo: Editora 34, 2010.LÉVY, P.O que é Virtual?. 2. edição. São Paulo: Editora 34, 2011.LÉVY, P.As Tecnologias da Inteligência. Segunda Edição. São Paulo:Editora 34, 2011.LOJKINE, J.A Revolução Informacional. 3. edição. São Paulo: Cortez,2002.NEDER, R.(org).A Teoria Crítica de Andrew Feenberg:racionalização democrática, poder e tecnologia.Brasília: Observatóriodo Movimento pela Tecnologia Social na América Latina125Ciência da Computação – UASC/UFCG – Projeto Pedagógico/CDS/UnB/Capes, 2000.SÁ, A. L.Ética Profissional.4 ed. São Paulo: Atlas, 2001."
+  },
+  {
+    "name": "Inglês",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Letras",
+    "ementa": "Leitura de gêneros textuais de esferas diversas. Estudo deestruturas lingüístico-textuais que compõem os gêneros. Uso deestratégias interpretativas na construção de sentidos do texto.",
+    "bibliography": "1.FARACO, C.A.Estrangeirismos:guerras em torno da língua.Ed.Parábola, São Paulo, 2004.2.MARCUSCHI, L. A.Gêneros textuais: definição e funcionalidade.In:DIONISIO, A.P. ET AL.Gêneros textuais e ensino. Rio de Janeiro:Lucena, 2002.3.SOUZA, Adriana G. F..Leitura em Língua Inglesa: uma abordageminstrumentalDisal, São Paulo, 2005.1.AQUINO, I. de S.Como falar em encontro scientíficos. João Pessoa:Ed. Universitária/ UFPB, 2009.2.BUCROYED, P., BEARD, A.AQA GCSE English and English language.UK: Heinmann, 2010, p. 114-137.3.COSTA, R.S.Dicionário de gênero stextuais. Belo Horizonte:Autêntica Editora, 2008.126Ciência da Computação – UASC/UFCG – Projeto Pedagógico4.LONGMAN DICIONÁRIO ESCOLAR– Inglês-Português/ Português-Inglês. São Paulo: Longman, 2002.5.MACHADO, A.R.Resumo: leitura e produção de textos técnicos eacadêmicos. Parábola, São Paulo, 2004.6.MARCUSCHI, L. A.Produção textual, análise de gêneros ecompreensão. Parábola, São Paulo, 2008.7.THORNBURY, S.Beyond the sentence: introducing discourseanalysis. Oxford: Macmillan, 2005, p.63-83.8.WOLLMAN-BONILLA, J.E.E-mail as a genre:a beginning writerlearns the conventions. Language Arts, Vol. 81, Nº 2, 2003.Disponível em:<http://stancock.iweb.bsu.edu/EDRDG445/Online/PDF/Email.pdf>.Acesso em: 21/11/2012."
+  },
+  {
+    "name": "Libras - Língua Brasileira de Sinais",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Educação",
+    "ementa": "Noções gerais sobre os aspectos lingüísticos, sociais, culturais daLibras. Uso do alfabeto digital. A Libras na educação bilíngüe-bicultural de surdos. Introdução ao aprendizado da Libras, através devivências interativas, com enfoque em seus aspectos gramaticais,textuais e culturais.",
+    "bibliography": "1. FELIPE, T. A.Introdução à Gramática da LIBRAS.Brasília: SEESP,sérieatualidades pedagógicas, Vol. III, 1997.2. QUADROS, R., KARNOPP, L.B.Língua Brasileira de Sinais:127Ciência da Computação – UASC/UFCG – Projeto Pedagógicoestudoslinguísticos.Porto Alegre: Artmed, 2004.3. AUDREI, G.LIBRAS? Que língua é essa? Crenças e Preconceitosemtorno da língua de sinais e da realidade surda. São Paulo> ParábolaEditoral, 2009.1. FELIPE, T. A.Libras em contexto: curso básico, livro do professore doestudante cursista.Brasília: Programa Nacional de Apoio à EducaçãodosSurdos, MEC; SEESP, 2001.2. BRITO, L. F.Por uma gramática da língua de sinais. Rio deJaneiro:Tempo Brasileiro UFRJ, 1995.3. CAPOVILLA, F. C., RAPHAEL, W. D. (Orgs.),Dicionárioenciclopédicoilustrado trilíngue da Língua de Sinais Brasileira.Vol. 1: Sinais de A a L(2a. edição, Vol. 1. São Paulo, SP: Edusp, MEC-FNDE. 2001.4. CAPOVILLA, F. C., RAPHAEL, W. D. (Orgs.),Dicionárioenciclopédico ilustrado trilíngue da Língua de Sinais Brasileira.Vol. 2:Sinais de M a Z 2a. edição, Vol. 2, São Paulo, SP: Edusp, ImprensaOficial, Feneis. 2001.5. COUTINHO, D. LIBRAS –Língua Brasileira de Sinais e LínguaPortuguesa: semelhanças e diferenças. João Pessoa: Idéia, 1996, Vol.I."
+  },
+  {
+    "name": "Língua Portuguesa",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer128Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "owner": "Letras",
+    "ementa": "Estudo da língua/linguagem em diferentes contextos e situaçõesde uso. Práticas de leitura e produção textual em diferentescontextos. Critérios de textualidade.",
+    "bibliography": "1. AQUINO, I. de S.Como falar em encontros científicos - doseminário em sala de aula a congressos internacionais. 1a Ed. JoãoPessoa: Editora Universitária/UFPB, 2007.2.ASSIS, J. A. MATA, Maria Aparecida da; PERINI-SANTOS, Pedro.Ensino-aprendizagem de resumos acadêmicos em sala de aula:negociações e representações.In.: Anais do 2 Encontro InternacionalLinguagem, Cultura e Cognição: reflexões para o ensino. Campinas,São Paulo: Graf. FE: ALB, 2003.3.ASSIS, J. A. & MATA, M.A. da.A escrita de resumos na formaçãoinicial de professores de Língua Portuguesa: movimentos deaprendizagem no espaço da sala de aula.In.: KLEIMAN, Ângela B. &MATÊNCIO, Maria de Lourdes Meirelles (orgs). Letramento e formaçãodo professor, práticas discursivas, representações e construção dosaber. Campinas, SP: Mercado de Letras, 2005 (Coleção Ideias sobreLinguagem), p. 181-202.1.MEDEIROS, J.B.Português Instrumental. 9a edição. São Paulo:Atlas, 2010.2.Redação técnica: elaboração de relatórios técnico-científicos etécnica de normalização textual. 2a edição. São Paulo: Atlas,2010.3.MOTTA-ROTH, D.Uma análise transdisciplinar do gêneroAbstract. In.: Intercâmbio.Volume VII, 1998 (125- 134).4.MOTTA-ROTH, D., HENDGES, G.R.Produção textual nauniversidade. São Paulo: Parábola Editorial, 2010.129Ciência da Computação – UASC/UFCG – Projeto Pedagógico5.SILVA, E.M.A produção de resumos acadêmicos na disciplinaPortuguês Instrumental. In.: Veredas Favip, Revista Eletrônica deCiências - v. 3, n. 2 - julho a dezembro de 2010. p. 49-60.6.SILVA, Jane Quintiliano Guimarães & MATA, Maria Aparecida da.Proposta tipológica de resumos: um estudo exploratório das práticasde ensino da leitura e da produção de textos acadêmicos.SCRIPTA,Belo Horizonte, v. 6, n. 11, p. 123-133, 2o sem. 2002."
+  },
+  {
+    "name": "Tópicos em Humanidades I",
+    "hours": "60 horasCRÉDITOS:04",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação",
+    "ementa": "Ementa livre para tópicos em Humanidades específicos para oCurso de Ciência da Computação",
+    "bibliography": "Bibliografia específica para o tópico a ser abordado.Bibliografia específica para o tópico a ser abordado."
+  },
+  {
+    "name": "Tópicos em Humanidades II",
+    "hours": "30 horasCRÉDITOS:02",
+    "preRequisites": "Não requer",
+    "owner": "Sistemas e Computação130Ciência da Computação – UASC/UFCG – Projeto Pedagógico",
+    "ementa": "Ementa livre para tópicos em Humanidades específicos para oCurso de Ciência da Computação",
+    "bibliography": "Bibliografia específica para o tópico a ser abordado.Bibliografia específica para o tópico a ser abordado.XIX. Certidões de Aprovação do Projeto PedagógicoA seguir,sãoincluídascópiasdascertidõesaprovadaspelasunidadesacadêmicas correspondentes.131"
+  }
+]
